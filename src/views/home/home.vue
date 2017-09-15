@@ -1,6 +1,9 @@
 <template>
     <div>
-        home
+        <header>
+
+            <input type="text" @focus="go_to_search">
+        </header>
     </div>
 </template>
 <script>
@@ -9,6 +12,11 @@ export default {
     data() {
         return {
 
+        }
+    },
+    methods:{
+        go_to_search(){
+            this.$router.push('/search')
         }
     }
 }
