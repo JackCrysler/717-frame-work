@@ -1,0 +1,1462 @@
+
+{
+    "currentTime": 1505896240497,
+    "floors": [
+        {
+            "count": 5,
+            "floorName": "爆款推荐",
+            "itemList": [
+                {
+                    "baseinfo": {
+                        "allPlatformIds": [
+                            24,
+                            4,
+                            34167
+                        ],
+                        "encode64ItemId": "81n9hQ9",
+                        "frontFirstCatIds": [
+                            1000,
+                            90000,
+                            195000,
+                            209000,
+                            241000,
+                            261000,
+                            291000,
+                            291000,
+                            312000,
+                            331000,
+                            374000
+                        ],
+                        "goJuH5": false,
+                        "itemActSignId": 27394855,
+                        "itemDescUrl": "tfscom/TB1ueYeajihSKJjy0FfXXbGzFXa%7Cvar%5Edesc%3Bsign%5E8661edcef9f3b333a01aacfbb31b1056%3Blang%5Egb18030%3Bt%5E1505896240495",
+                        "itemId": 551217863945,
+                        "itemLabel": [
+                            "就要穿新衣",
+                            "sc_cl_24_1036",
+                            "sys_ict_46914",
+                            "sys_yph",
+                            "sys_ict_5835",
+                            "mjs",
+                            "sys_size_38",
+                            "sys_sign_2",
+                            "sys_sucai_png",
+                            "yhq",
+                            "sc_cl_24_224",
+                            "sys_market_0",
+                            "topicitem",
+                            "sys_size_40",
+                            "sc_cl_24_181",
+                            "sys_size_42",
+                            "qtth",
+                            "sys_size_44",
+                            "sys_ict_5895",
+                            "sys_size_36",
+                            "sc_tp_5_171",
+                            "sys_domestic",
+                            "sys_ict_28802",
+                            "sys_sucai_entry"
+                        ],
+                        "itemStatus": "avil",
+                        "itemUrl": "//detail.ju.taobao.com/home.htm?id=10000057642591&item_id=551217863945",
+                        "juId": 10000057642591,
+                        "leftTime": "2天7小时29分钟",
+                        "limitNum": 5,
+                        "oetime": 1506095999000,
+                        "oldbiz30day": 0,
+                        "ostime": 1505836800000,
+                        "ostimeText": "9月20日 00:00准时开抢",
+                        "picGroup": [
+                            "//gju3.alicdn.com/tps/i2/651856143/TB2Zx_ezctnpuFjSZFvXXbcTpXa_!!651856143.jpg",
+                            "//gju4.alicdn.com/tps/i4/651856143/TB2_Mbcu9XlpuFjy0FeXXcJbFXa_!!651856143.jpg",
+                            "//gju4.alicdn.com/tps/i2/651856143/TB2CggTuW8lpuFjy0FpXXaGrpXa_!!651856143.jpg",
+                            "//gju2.alicdn.com/tps/i2/651856143/TB2vHnnzhhmpuFjSZFyXXcLdFXa_!!651856143.jpg"
+                        ],
+                        "picUrl": "//gju3.alicdn.com/tps/i2/TB1ogolRVXXXXbOXpXXXXXXXXXX_!!0-item_pic.jpg",
+                        "picUrlFromIc": "//gju3.alicdn.com/tps/i3/651856143/TB1Cc2AXvBNTKJjSszcXXbO2VXa_!!0-item_pic.jpg",
+                        "picUrlM": "//gju3.alicdn.com/tps/i2/TB1ogolRVXXXXbOXpXXXXXXXXXX_!!0-item_pic.jpg",
+                        "picUrlNew": "//gju3.alicdn.com/tps/i2/TB1ogolRVXXXXbOXpXXXXXXXXXX_!!0-item_pic.jpg",
+                        "platformId": 24,
+                        "postage": true,
+                        "preRemindTime": "",
+                        "preSale": false,
+                        "push": false,
+                        "salesSite": 1,
+                        "sellerId": 651856143,
+                        "setime": 1506095999000,
+                        "shopType": 1,
+                        "soldAmount": 4606000,
+                        "soldRatio": 8,
+                        "sstime": 1505577600000,
+                        "stock": 394,
+                        "tbFirstCatId": 16,
+                        "tbLeafCatId": 50000697,
+                        "totalStock": 465
+                    },
+                    "extend": {
+                        "fwIcon": "",
+                        "fwType": "",
+                        "titleIcon": "",
+                        "titleIcons": [],
+                        "titleIconsNew": [],
+                        "titleIconsV50": [],
+                        "titleIconsV50New": [],
+                        "merits": [
+                            {
+                                "text": "满1199减50"
+                            }
+                        ],
+                        "actIcon": "",
+                        "pcActIcon": "",
+                        "bizHomeIcon": "",
+                        "bizChannelIcon": "",
+                        "ppjItemMerit": "7周年店庆钜惠",
+                        "itemActSignId": 27394855,
+                        "lfBizIcon": "",
+                        "lfHongBaoPeriod": [],
+                        "labelPics": {},
+                        "xpName": "",
+                        "xpSelling": "",
+                        "xpImg": "",
+                        "qgjText": "疯抢进行中",
+                        "tqgShowStockPercent": true,
+                        "tqgDetailUrl": "//detail.ju.taobao.com/home.htm?id=10000057642591&item_id=551217863945",
+                        "tqgLabelPics": {},
+                        "pics": [
+                            "//gju3.alicdn.com/tps/i2/TB1ogolRVXXXXbOXpXXXXXXXXXX_!!0-item_pic.jpg",
+                            "//gju3.alicdn.com/tps/i2/651856143/TB2Zx_ezctnpuFjSZFvXXbcTpXa_!!651856143.jpg",
+                            "//gju4.alicdn.com/tps/i4/651856143/TB2_Mbcu9XlpuFjy0FeXXcJbFXa_!!651856143.jpg",
+                            "//gju4.alicdn.com/tps/i2/651856143/TB2CggTuW8lpuFjy0FpXXaGrpXa_!!651856143.jpg",
+                            "//gju2.alicdn.com/tps/i2/651856143/TB2vHnnzhhmpuFjSZFyXXcLdFXa_!!651856143.jpg"
+                        ],
+                        "remindType": 1,
+                        "sc_cl_24_1036": "i3/6000000001753/TB2oKucgUF7MKJjSZFLXXcMBVXa_!!6000000001753-2-jupush.png",
+                        "itemLogoMoheXinPicV2_24": "//gju3.alicdn.com/tps/i4/6000000002260/TB2gnYgajuhSKJjSspaXXXFgFXa_!!6000000002260-2-jupush.png",
+                        "brandName": "PSALTER/诗篇",
+                        "brandId": "115414",
+                        "sc_cl_24_224": "i2/6000000004704/TB2DweVhm7PL1JjSZFHXXcciXXa_!!6000000004704-2-jupush.png",
+                        "size": "36,38,40,42,44",
+                        "sc_cl_24_181": "i1/6000000002546/TB2roaHhlcHL1JjSZJiXXcKcpXa_!!6000000002546-2-jupush.png",
+                        "appEntryImage": "//gju2.alicdn.com/tps/i1/651856143/TB2gzMuXvNNTKJjSspkXXaeWFXa_!!0-juitemmedia.jpg",
+                        "sc_tp_5_171": "i1/6000000002759/TB25gOlersTMeJjSszhXXcGCFXa_!!6000000002759-2-jupush.png",
+                        "itemLogoMoheXinPicV2": "//gju3.alicdn.com/tps/i4/6000000002260/TB2gnYgajuhSKJjSspaXXXFgFXa_!!6000000002260-2-jupush.png",
+                        "hyalineItemPic_24": "//gju4.alicdn.com/tps/i3/651856143/TB2C3mLXcPEK1JjSZFEXXaA3XXa_!!651856143.png",
+                        "ppjItemMerit_24": "7周年店庆钜惠",
+                        "hyalineItemPic": "//gju4.alicdn.com/tps/i3/651856143/TB2C3mLXcPEK1JjSZFEXXaA3XXa_!!651856143.png",
+                        "brandLogo": "//gju2.alicdn.com/tps/bao/uploaded/TB1Cw6CJXXXXXbnXFXXSutbFXXX.jpg",
+                        "itemSmallTitleJTT": "诗篇毛针织衫",
+                        "itemSmallTitleJTT_24": "诗篇毛针织衫",
+                        "goodMeritIcon": "//gju1.alicdn.com/tps/TB1_3.8MVXXXXc9XpXXXXXXXXXX-60-54.jpg",
+                        "goodMeritText": "旗舰店",
+                        "zrtGroupNum": "",
+                        "zrtCurGroupNum": 0,
+                        "qcNewDetail": true,
+                        "flashBenefit": "",
+                        "goNewDetail": false,
+                        "itemComments": [
+                            "这分类评价真是要纠结死我。。。没有起球，毛线很平整 贴皮肤穿很舒服，一点都不扎 不错不错，对得起价格",
+                            "这分类评价真是要纠结死我。。。没有起球，毛线很平整 贴皮肤穿很舒服，一点都不扎 不错不错，对得起价格",
+                            "这分类评价真是要纠结死我。。。没有起球，毛线很平整 贴皮肤穿很舒服，一点都不扎 不错不错，对得起价格"
+                        ],
+                        "firstSellPointIcons": [],
+                        "secondSellPointIcons": "",
+                        "secondSellPointTexts": "商场同款",
+                        "thirdSellPointInfos": [
+                            "限量429件",
+                            ""
+                        ],
+                        "isSpecial": false,
+                        "promotionColor": "#FE371E",
+                        "promotionPicUrl": "//gju4.alicdn.com/tps/TB1ldeXSXXXXXbxXVXXXXXXXXXX-540-156.png",
+                        "promotionBigPicUrl": "//gju3.alicdn.com/tps/TB19saZSXXXXXXuXXXXXXXXXXXX-582-156.png",
+                        "promotionContent": "立 即 购 买",
+                        "promotionContentNew": "",
+                        "promotionComparePrice": [
+                            "",
+                            "2180"
+                        ],
+                        "personalSellPoint": "满1199减50",
+                        "itemOfflineFinalScore": "0",
+                        "hookBenefit": "",
+                        "campaignIconUrl": "",
+                        "couponTemplateIconUrl": ""
+                    },
+                    "general": {
+                        "mixBlockSize": 2,
+                        "mixType": 1
+                    },
+                    "global": {
+                        "isBaoshui": false,
+                        "isZhiyou": false
+                    },
+                    "jiaZhuang": {
+                        "brandDesc": "",
+                        "brandLogo": "",
+                        "customerService": "退货赔运费"
+                    },
+                    "merit": {
+                        "desc": [
+                            "全场领券满减",
+                            "全场领券满减",
+                            "全场领券满减"
+                        ],
+                        "down": [
+                            "满1199减50"
+                        ],
+                        "up": [
+                            "新锐",
+                            "知性",
+                            "活力"
+                        ]
+                    },
+                    "name": {
+                        "longName": "新锐 全场领券满减 知性 全场领券满减 活力 全场领券满减",
+                        "prefix": [],
+                        "shortName": "诗篇秋季时尚假两件荷叶边飘带毛衫",
+                        "tags": [
+                            {
+                                "text": "退货赔运费",
+                                "tag": "zyfx"
+                            }
+                        ],
+                        "title": "诗篇秋季时尚假两件荷叶边飘带毛衫"
+                    },
+                    "price": {
+                        "actPrice": "1316",
+                        "actPriceRaw": "1316",
+                        "discount": "6.1",
+                        "expandMoney": "",
+                        "frontMoney": "",
+                        "hangtagPrice": false,
+                        "longerPrice": false,
+                        "origPrice": "2180.00",
+                        "priceParts": [
+                            "1316",
+                            ""
+                        ]
+                    },
+                    "promotion": {
+                        "hongbaoPrice": 0,
+                        "hongbaoTotalCount": 0,
+                        "marketing": {}
+                    },
+                    "remind": {
+                        "fire": false,
+                        "remindNum": 105,
+                        "soldCount": 35
+                    }
+                },
+                {
+                    "baseinfo": {
+                        "allPlatformIds": [
+                            24,
+                            4,
+                            34167
+                        ],
+                        "encode64ItemId": "7O01xmY",
+                        "frontFirstCatIds": [
+                            1000,
+                            90000,
+                            195000,
+                            207000,
+                            241000,
+                            261000,
+                            291000,
+                            291000,
+                            312000,
+                            331000,
+                            374000
+                        ],
+                        "goJuH5": false,
+                        "itemActSignId": 27394855,
+                        "itemDescUrl": "tfscom/TB1uiZoXvNNTKJjSspcXXb4KVXa%7Cvar%5Edesc%3Bsign%5Ea8c94dc96c82d1d9f95acac6e55c4b01%3Blang%5Egb18030%3Bt%5E1505896240495",
+                        "itemId": 534723827132,
+                        "itemLabel": [
+                            "sys_size_xl",
+                            "sc_cl_24_1036",
+                            "sys_ict_46914",
+                            "sys_yph",
+                            "sys_ict_5835",
+                            "mjs",
+                            "sys_sign_2",
+                            "sys_sucai_png",
+                            "yhq",
+                            "sc_cl_24_224",
+                            "sys_market_0",
+                            "sys_size_2xl",
+                            "sc_cl_24_181",
+                            "qtth",
+                            "sys_ict_5895",
+                            "genderwm",
+                            "sys_domestic",
+                            "sys_size_s",
+                            "sys_ict_28802",
+                            "sys_sucai_entry",
+                            "sys_dtheme_5000136117",
+                            "sys_size_l",
+                            "sys_size_m"
+                        ],
+                        "itemStatus": "avil",
+                        "itemUrl": "//detail.ju.taobao.com/home.htm?id=10000057644038&item_id=534723827132",
+                        "juId": 10000057644038,
+                        "leftTime": "2天7小时29分钟",
+                        "limitNum": 5,
+                        "oetime": 1506095999000,
+                        "oldbiz30day": 0,
+                        "ostime": 1505836800000,
+                        "ostimeText": "9月20日 00:00准时开抢",
+                        "picGroup": [
+                            "//gju4.alicdn.com/tps/i1/651856143/TB2aOugspXXXXcGXXXXXXXXXXXX_!!651856143.jpg",
+                            "//gju1.alicdn.com/tps/i3/651856143/TB2uoOFspXXXXX0XpXXXXXXXXXX_!!651856143.jpg",
+                            "//gju2.alicdn.com/tps/i3/651856143/TB2TmgMsFXXXXXyXFXXXXXXXXXX_!!651856143.jpg",
+                            "//gju3.alicdn.com/tps/i1/651856143/TB20BJrsVXXXXbOXXXXXXXXXXXX_!!651856143.jpg"
+                        ],
+                        "picUrl": "//gju2.alicdn.com/tps/i1/161430303349594846/TB2.eCcX9uJ.eBjy0FgXXXBBXXa_!!0-juitemmedia.jpg",
+                        "picUrlFromIc": "//gju1.alicdn.com/tps/i2/651856143/TB1QAJIfRcHL1JjSZFBXXaiGXXa_!!0-item_pic.jpg",
+                        "picUrlM": "//gju2.alicdn.com/tps/i1/161430303349594846/TB2.eCcX9uJ.eBjy0FgXXXBBXXa_!!0-juitemmedia.jpg",
+                        "picUrlNew": "//gju1.alicdn.com/tps/i2/651856143/TB2rClEfUQIL1JjSZFhXXaDZFXa_!!0-juitemmedia.jpg",
+                        "platformId": 24,
+                        "postage": true,
+                        "preRemindTime": "",
+                        "preSale": false,
+                        "push": false,
+                        "salesSite": 1,
+                        "sellerId": 651856143,
+                        "setime": 1506095999000,
+                        "shopType": 1,
+                        "soldAmount": 4573800,
+                        "soldRatio": 4,
+                        "sstime": 1505577600000,
+                        "stock": 695,
+                        "tbFirstCatId": 16,
+                        "tbLeafCatId": 50008904,
+                        "totalStock": 754
+                    },
+                    "extend": {
+                        "fwIcon": "",
+                        "fwType": "",
+                        "titleIcon": "",
+                        "titleIcons": [],
+                        "titleIconsNew": [],
+                        "titleIconsV50": [],
+                        "titleIconsV50New": [],
+                        "merits": [
+                            {
+                                "text": "满1199减50"
+                            }
+                        ],
+                        "actIcon": "",
+                        "pcActIcon": "",
+                        "bizHomeIcon": "",
+                        "bizChannelIcon": "",
+                        "ppjItemMerit": "7周年店庆钜惠",
+                        "itemActSignId": 27394855,
+                        "lfBizIcon": "",
+                        "lfHongBaoPeriod": [],
+                        "labelPics": {},
+                        "xpName": "",
+                        "xpSelling": "",
+                        "xpImg": "",
+                        "qgjText": "疯抢进行中",
+                        "tqgShowStockPercent": true,
+                        "tqgDetailUrl": "//detail.ju.taobao.com/home.htm?id=10000057644038&item_id=534723827132",
+                        "tqgLabelPics": {},
+                        "pics": [
+                            "//gju2.alicdn.com/tps/i1/161430303349594846/TB2.eCcX9uJ.eBjy0FgXXXBBXXa_!!0-juitemmedia.jpg",
+                            "//gju4.alicdn.com/tps/i1/651856143/TB2aOugspXXXXcGXXXXXXXXXXXX_!!651856143.jpg",
+                            "//gju1.alicdn.com/tps/i3/651856143/TB2uoOFspXXXXX0XpXXXXXXXXXX_!!651856143.jpg",
+                            "//gju2.alicdn.com/tps/i3/651856143/TB2TmgMsFXXXXXyXFXXXXXXXXXX_!!651856143.jpg",
+                            "//gju3.alicdn.com/tps/i1/651856143/TB20BJrsVXXXXbOXXXXXXXXXXXX_!!651856143.jpg"
+                        ],
+                        "remindType": 1,
+                        "sc_cl_24_1036": "i2/6000000002357/TB2_J76aNOMSKJjSZFlXXXqQFXa_!!6000000002357-2-jupush.png",
+                        "itemLogoMoheXinPicV2_24": "//gju1.alicdn.com/tps/i1/6000000004100/TB2wi_aaaagSKJjy0FcXXcZeVXa_!!6000000004100-2-jupush.png",
+                        "brandName": "PSALTER/诗篇",
+                        "brandId": "115414",
+                        "sc_cl_24_224": "i4/6000000001609/TB2j_WhersTMeJjSszhXXcGCFXa_!!6000000001609-2-jupush.png",
+                        "size": "S,M,L,XL,XXL",
+                        "sc_cl_24_181": "i3/6000000006192/TB276IUajuhSKJjSspdXXc11XXa_!!6000000006192-2-jupush.png",
+                        "appEntryImage": "//gju2.alicdn.com/tps/i4/651856143/TB2s8_jgEl7MKJjSZFDXXaOEpXa_!!0-juitemmedia.jpg",
+                        "itemLogoMoheXinPicV2": "//gju1.alicdn.com/tps/i1/6000000004100/TB2wi_aaaagSKJjy0FcXXcZeVXa_!!6000000004100-2-jupush.png",
+                        "hyalineItemPic_24": "//gju2.alicdn.com/tps/bao/upload/TB1ncGRLXXXXXc1XpXXwu0bFXXX.png",
+                        "ppjItemMerit_24": "7周年店庆钜惠",
+                        "hyalineItemPic": "//gju2.alicdn.com/tps/bao/upload/TB1ncGRLXXXXXc1XpXXwu0bFXXX.png",
+                        "brandLogo": "//gju2.alicdn.com/tps/bao/uploaded/TB1Cw6CJXXXXXbnXFXXSutbFXXX.jpg",
+                        "itemSmallTitleJTT": "诗篇皮衣皮草",
+                        "itemSmallTitleJTT_24": "诗篇皮衣皮草",
+                        "goodMeritIcon": "//gju1.alicdn.com/tps/TB1_3.8MVXXXXc9XpXXXXXXXXXX-60-54.jpg",
+                        "goodMeritText": "旗舰店",
+                        "zrtGroupNum": "",
+                        "zrtCurGroupNum": 0,
+                        "qcNewDetail": true,
+                        "flashBenefit": "",
+                        "goNewDetail": false,
+                        "itemComments": [
+                            "三月份逛街的时候，店里也在促销，一口价1899，当时犹豫了一下，想再看看其他家，结果一直也没找到特别想要的。这次618又看到它了，1006，果断收进衣橱，机车版算是经典款了，十几年的版型了，不怕过时。料子很柔软，不会看是不是皮的，相信这么大的品牌不会欺骗消费者。",
+                            "三月份逛街的时候，店里也在促销，一口价1899，当时犹豫了一下，想再看看其他家，结果一直也没找到特别想要的。这次618又看到它了，1006，果断收进衣橱，机车版算是经典款了，十几年的版型了，不怕过时。料子很柔软，不会看是不是皮的，相信这么大的品牌不会欺骗消费者。",
+                            "三月份逛街的时候，店里也在促销，一口价1899，当时犹豫了一下，想再看看其他家，结果一直也没找到特别想要的。这次618又看到它了，1006，果断收进衣橱，机车版算是经典款了，十几年的版型了，不怕过时。料子很柔软，不会看是不是皮的，相信这么大的品牌不会欺骗消费者。"
+                        ],
+                        "firstSellPointIcons": [],
+                        "secondSellPointIcons": "",
+                        "secondSellPointTexts": "商场同款",
+                        "thirdSellPointInfos": [
+                            "限量728件",
+                            ""
+                        ],
+                        "isSpecial": false,
+                        "promotionColor": "#FE371E",
+                        "promotionPicUrl": "//gju4.alicdn.com/tps/TB1ldeXSXXXXXbxXVXXXXXXXXXX-540-156.png",
+                        "promotionBigPicUrl": "//gju3.alicdn.com/tps/TB19saZSXXXXXXuXXXXXXXXXXXX-582-156.png",
+                        "promotionContent": "立 即 购 买",
+                        "promotionContentNew": "",
+                        "promotionComparePrice": [
+                            "",
+                            "5980"
+                        ],
+                        "personalSellPoint": "满1199减50",
+                        "itemOfflineFinalScore": "0",
+                        "hookBenefit": "",
+                        "campaignIconUrl": "",
+                        "couponTemplateIconUrl": ""
+                    },
+                    "general": {
+                        "mixBlockSize": 2,
+                        "mixType": 1
+                    },
+                    "global": {
+                        "isBaoshui": false,
+                        "isZhiyou": false
+                    },
+                    "jiaZhuang": {
+                        "brandDesc": "",
+                        "brandLogo": "",
+                        "customerService": "退货赔运费"
+                    },
+                    "merit": {
+                        "desc": [
+                            "全场领券满减",
+                            "全场领券满减",
+                            "全场领券满减"
+                        ],
+                        "down": [
+                            "满1199减50"
+                        ],
+                        "up": [
+                            "新锐",
+                            "知性",
+                            "活力"
+                        ]
+                    },
+                    "name": {
+                        "longName": "新锐 全场领券满减 知性 全场领券满减 活力 全场领券满减",
+                        "prefix": [],
+                        "shortName": "诗篇女装 肩章皮衣女士真皮机车外",
+                        "tags": [
+                            {
+                                "text": "退货赔运费",
+                                "tag": "zyfx"
+                            }
+                        ],
+                        "title": "诗篇女装 肩章皮衣女士真皮机车外"
+                    },
+                    "price": {
+                        "actPrice": "1386",
+                        "actPriceRaw": "1386",
+                        "discount": "2.4",
+                        "expandMoney": "",
+                        "frontMoney": "",
+                        "hangtagPrice": false,
+                        "longerPrice": false,
+                        "origPrice": "5980.00",
+                        "priceParts": [
+                            "1386",
+                            ""
+                        ]
+                    },
+                    "promotion": {
+                        "hongbaoPrice": 0,
+                        "hongbaoTotalCount": 0,
+                        "marketing": {}
+                    },
+                    "remind": {
+                        "fire": false,
+                        "remindNum": 75,
+                        "soldCount": 33
+                    }
+                },
+                {
+                    "baseinfo": {
+                        "allPlatformIds": [
+                            24,
+                            4,
+                            34167
+                        ],
+                        "encode64ItemId": "87ak07W",
+                        "frontFirstCatIds": [
+                            1000,
+                            90000,
+                            195000,
+                            207000,
+                            241000,
+                            261000,
+                            291000,
+                            291000,
+                            312000,
+                            331000,
+                            374000
+                        ],
+                        "goJuH5": false,
+                        "itemActSignId": 27394855,
+                        "itemDescUrl": "tfscom/TB1j9jbaaagSKJjy0FgXXcRqFXa%7Cvar%5Edesc%3Bsign%5Ecbc09821418b1d9bcd6cdc0226527ffa%3Blang%5Egb18030%3Bt%5E1505896240495",
+                        "itemId": 557445022202,
+                        "itemLabel": [
+                            "sc_cl_24_1036",
+                            "sys_ict_46914",
+                            "sys_yph",
+                            "sys_ict_5835",
+                            "mjs",
+                            "sys_size_38",
+                            "sys_sign_2",
+                            "sys_sucai_png",
+                            "yhq",
+                            "sc_cl_24_224",
+                            "sys_market_0",
+                            "sys_size_40",
+                            "sc_cl_24_181",
+                            "sys_size_42",
+                            "qtth",
+                            "sys_ict_5895",
+                            "sys_size_36",
+                            "sys_domestic",
+                            "sys_ict_28802",
+                            "sys_sucai_entry"
+                        ],
+                        "itemStatus": "avil",
+                        "itemUrl": "//detail.ju.taobao.com/home.htm?id=10000057642544&item_id=557445022202",
+                        "juId": 10000057642544,
+                        "leftTime": "2天7小时29分钟",
+                        "limitNum": 5,
+                        "oetime": 1506095999000,
+                        "oldbiz30day": 0,
+                        "ostime": 1505836800000,
+                        "ostimeText": "9月20日 00:00准时开抢",
+                        "picGroup": [
+                            "//gju1.alicdn.com/tps/i2/651856143/TB2GvelXlUSMeJjy1zdXXaR3FXa_!!651856143.jpg"
+                        ],
+                        "picUrl": "//gju2.alicdn.com/tps/i1/651856143/TB1gVqlXlUSMeJjy1zjXXc0dXXa_!!0-item_pic.jpg",
+                        "picUrlFromIc": "//gju2.alicdn.com/tps/i1/651856143/TB1gVqlXlUSMeJjy1zjXXc0dXXa_!!0-item_pic.jpg",
+                        "picUrlM": "//gju2.alicdn.com/tps/i1/651856143/TB1gVqlXlUSMeJjy1zjXXc0dXXa_!!0-item_pic.jpg",
+                        "picUrlNew": "//gju2.alicdn.com/tps/i1/651856143/TB1gVqlXlUSMeJjy1zjXXc0dXXa_!!0-item_pic.jpg",
+                        "platformId": 24,
+                        "postage": true,
+                        "preRemindTime": "",
+                        "preSale": false,
+                        "push": false,
+                        "salesSite": 1,
+                        "sellerId": 651856143,
+                        "setime": 1506095999000,
+                        "shopType": 1,
+                        "soldAmount": 1498800,
+                        "soldRatio": 7,
+                        "sstime": 1505577600000,
+                        "stock": 43,
+                        "tbFirstCatId": 16,
+                        "tbLeafCatId": 50008905,
+                        "totalStock": 46
+                    },
+                    "extend": {
+                        "fwIcon": "",
+                        "fwType": "",
+                        "titleIcon": "",
+                        "titleIcons": [],
+                        "titleIconsNew": [],
+                        "titleIconsV50": [],
+                        "titleIconsV50New": [],
+                        "merits": [
+                            {
+                                "text": "满1199减50"
+                            }
+                        ],
+                        "actIcon": "",
+                        "pcActIcon": "",
+                        "bizHomeIcon": "",
+                        "bizChannelIcon": "",
+                        "ppjItemMerit": "7周年店庆钜惠",
+                        "itemActSignId": 27394855,
+                        "lfBizIcon": "",
+                        "lfHongBaoPeriod": [],
+                        "labelPics": {},
+                        "xpName": "",
+                        "xpSelling": "",
+                        "xpImg": "",
+                        "qgjText": "疯抢进行中",
+                        "tqgShowStockPercent": true,
+                        "tqgDetailUrl": "//detail.ju.taobao.com/home.htm?id=10000057642544&item_id=557445022202",
+                        "tqgLabelPics": {},
+                        "pics": [
+                            "//gju2.alicdn.com/tps/i1/651856143/TB1gVqlXlUSMeJjy1zjXXc0dXXa_!!0-item_pic.jpg",
+                            "//gju1.alicdn.com/tps/i2/651856143/TB2GvelXlUSMeJjy1zdXXaR3FXa_!!651856143.jpg"
+                        ],
+                        "remindType": 1,
+                        "sc_cl_24_1036": "i1/6000000004849/TB2nzoZajuhSKJjSspaXXXFgFXa_!!6000000004849-2-jupush.png",
+                        "itemLogoMoheXinPicV2_24": "//gju3.alicdn.com/tps/i3/6000000006538/TB2DWvaajuhSKJjSspaXXXFgFXa_!!6000000006538-2-jupush.png",
+                        "brandName": "PSALTER/诗篇",
+                        "brandId": "115414",
+                        "sc_cl_24_224": "i3/6000000005110/TB20h7WaaagSKJjy0FbXXa.mVXa_!!6000000005110-2-jupush.png",
+                        "size": "36,38,40,42",
+                        "sc_cl_24_181": "i4/6000000004710/TB2YQ5newoQMeJjy0FpXXcTxpXa_!!6000000004710-2-jupush.png",
+                        "appEntryImage": "//gju1.alicdn.com/tps/i2/651856143/TB2MsfpX_0ATuJjSZFEXXap2FXa_!!0-juitemmedia.jpg",
+                        "itemLogoMoheXinPicV2": "//gju3.alicdn.com/tps/i3/6000000006538/TB2DWvaajuhSKJjSspaXXXFgFXa_!!6000000006538-2-jupush.png",
+                        "hyalineItemPic_24": "//gju3.alicdn.com/tps/i1/651856143/TB2P_eEXEcKL1JjSZFzXXcfJXXa_!!651856143.png",
+                        "ppjItemMerit_24": "7周年店庆钜惠",
+                        "hyalineItemPic": "//gju3.alicdn.com/tps/i1/651856143/TB2P_eEXEcKL1JjSZFzXXcfJXXa_!!651856143.png",
+                        "brandLogo": "//gju2.alicdn.com/tps/bao/uploaded/TB1Cw6CJXXXXXbnXFXXSutbFXXX.jpg",
+                        "itemSmallTitleJTT": "诗篇皮衣皮草",
+                        "itemSmallTitleJTT_24": "诗篇皮衣皮草",
+                        "goodMeritIcon": "//gju1.alicdn.com/tps/TB1_3.8MVXXXXc9XpXXXXXXXXXX-60-54.jpg",
+                        "goodMeritText": "旗舰店",
+                        "zrtGroupNum": "",
+                        "zrtCurGroupNum": 0,
+                        "qcNewDetail": true,
+                        "flashBenefit": "",
+                        "goNewDetail": false,
+                        "itemComments": [],
+                        "firstSellPointIcons": [],
+                        "secondSellPointIcons": "",
+                        "secondSellPointTexts": "商场同款",
+                        "thirdSellPointInfos": [
+                            "限量46件",
+                            ""
+                        ],
+                        "isSpecial": false,
+                        "promotionColor": "#FE371E",
+                        "promotionPicUrl": "//gju4.alicdn.com/tps/TB1ldeXSXXXXXbxXVXXXXXXXXXX-540-156.png",
+                        "promotionBigPicUrl": "//gju3.alicdn.com/tps/TB19saZSXXXXXXuXXXXXXXXXXXX-582-156.png",
+                        "promotionContent": "立 即 购 买",
+                        "promotionContentNew": "",
+                        "promotionComparePrice": [
+                            "",
+                            "12880"
+                        ],
+                        "personalSellPoint": "满1199减50",
+                        "itemOfflineFinalScore": "0",
+                        "hookBenefit": "",
+                        "campaignIconUrl": "",
+                        "couponTemplateIconUrl": ""
+                    },
+                    "general": {
+                        "mixBlockSize": 2,
+                        "mixType": 1
+                    },
+                    "global": {
+                        "isBaoshui": false,
+                        "isZhiyou": false
+                    },
+                    "jiaZhuang": {
+                        "brandDesc": "",
+                        "brandLogo": "",
+                        "customerService": "退货赔运费"
+                    },
+                    "merit": {
+                        "desc": [
+                            "全场领券满减",
+                            "全场领券满减",
+                            "全场领券满减"
+                        ],
+                        "down": [
+                            "满1199减50"
+                        ],
+                        "up": [
+                            "新锐",
+                            "知性",
+                            "活力"
+                        ]
+                    },
+                    "name": {
+                        "longName": "新锐 全场领券满减 知性 全场领券满减 活力 全场领券满减",
+                        "prefix": [],
+                        "shortName": "预售-诗篇2017冬季新品皮草6C57509",
+                        "tags": [
+                            {
+                                "text": "退货赔运费",
+                                "tag": "zyfx"
+                            }
+                        ],
+                        "title": "预售-诗篇2017冬季新品皮草6C57509"
+                    },
+                    "price": {
+                        "actPrice": "4996",
+                        "actPriceRaw": "4996",
+                        "discount": "3.9",
+                        "expandMoney": "",
+                        "frontMoney": "",
+                        "hangtagPrice": false,
+                        "longerPrice": false,
+                        "origPrice": "12880.00",
+                        "priceParts": [
+                            "4996",
+                            ""
+                        ]
+                    },
+                    "promotion": {
+                        "hongbaoPrice": 0,
+                        "hongbaoTotalCount": 0,
+                        "marketing": {}
+                    },
+                    "remind": {
+                        "fire": false,
+                        "remindNum": 35,
+                        "soldCount": 3
+                    }
+                },
+                {
+                    "baseinfo": {
+                        "allPlatformIds": [
+                            24,
+                            4,
+                            34167
+                        ],
+                        "encode64ItemId": "877htHF",
+                        "frontFirstCatIds": [
+                            1000,
+                            90000,
+                            195000,
+                            207000,
+                            241000,
+                            261000,
+                            291000,
+                            291000,
+                            312000,
+                            331000,
+                            374000
+                        ],
+                        "goJuH5": false,
+                        "itemActSignId": 27394855,
+                        "itemDescUrl": "tfscom/TB1Pte0fbsTMeJjSsziXXcdwXXa%7Cvar%5Edesc%3Bsign%5E0642f22cf0ba841282de74c238c4e5c4%3Blang%5Egb18030%3Bt%5E1505896240495",
+                        "itemId": 557394025193,
+                        "itemLabel": [
+                            "sc_cl_24_1036",
+                            "sys_ict_46914",
+                            "sys_yph",
+                            "sys_ict_5835",
+                            "mjs",
+                            "sys_size_38",
+                            "sys_sign_2",
+                            "sys_sucai_png",
+                            "yhq",
+                            "sc_cl_24_224",
+                            "sys_market_0",
+                            "sys_size_40",
+                            "sc_cl_24_181",
+                            "sys_size_42",
+                            "qtth",
+                            "sys_size_44",
+                            "sys_ict_5895",
+                            "sys_size_36",
+                            "sys_domestic",
+                            "sys_ict_28802",
+                            "sys_sucai_entry"
+                        ],
+                        "itemStatus": "avil",
+                        "itemUrl": "//detail.ju.taobao.com/home.htm?id=10000057641461&item_id=557394025193",
+                        "juId": 10000057641461,
+                        "leftTime": "2天7小时29分钟",
+                        "limitNum": 5,
+                        "oetime": 1506095999000,
+                        "oldbiz30day": 19,
+                        "ostime": 1505836800000,
+                        "ostimeText": "9月20日 00:00准时开抢",
+                        "picGroup": [
+                            "//gju3.alicdn.com/tps/i1/651856143/TB2_eOVavBNTKJjy0FdXXcPpVXa_!!0-juitemmedia.jpg",
+                            "//gju3.alicdn.com/tps/i1/651856143/TB2WurXfgoQMeJjy0FoXXcShVXa_!!0-juitemmedia.jpg",
+                            "//gju3.alicdn.com/tps/i4/651856143/TB2RduMavxNTKJjy0FjXXX6yVXa_!!0-juitemmedia.jpg",
+                            "//gju1.alicdn.com/tps/i1/651856143/TB2_5xxbaagSKJjy0FhXXcrbFXa_!!0-juitemmedia.jpg"
+                        ],
+                        "picUrl": "//gju2.alicdn.com/tps/i1/651856143/TB1wstRXuEJL1JjSZFGXXa6OXXa_!!0-item_pic.jpg",
+                        "picUrlFromIc": "//gju2.alicdn.com/tps/i1/651856143/TB1SQ0wbjuhSKJjSspmXXcQDpXa_!!0-item_pic.jpg",
+                        "picUrlM": "//gju2.alicdn.com/tps/i1/651856143/TB1wstRXuEJL1JjSZFGXXa6OXXa_!!0-item_pic.jpg",
+                        "picUrlNew": "//gju2.alicdn.com/tps/i3/651856143/TB2qsEXih3IL1JjSZPfXXcrUVXa_!!0-juitemmedia.jpg",
+                        "platformId": 24,
+                        "postage": true,
+                        "preRemindTime": "",
+                        "preSale": false,
+                        "push": false,
+                        "salesSite": 1,
+                        "sellerId": 651856143,
+                        "setime": 1506095999000,
+                        "shopType": 1,
+                        "soldAmount": 1196000,
+                        "soldRatio": 1,
+                        "sstime": 1505577600000,
+                        "stock": 723,
+                        "tbFirstCatId": 16,
+                        "tbLeafCatId": 50013194,
+                        "totalStock": 733
+                    },
+                    "extend": {
+                        "fwIcon": "",
+                        "fwType": "",
+                        "titleIcon": "",
+                        "titleIcons": [],
+                        "titleIconsNew": [],
+                        "titleIconsV50": [],
+                        "titleIconsV50New": [],
+                        "merits": [
+                            {
+                                "text": "此款赠送胸针"
+                            }
+                        ],
+                        "actIcon": "",
+                        "pcActIcon": "",
+                        "bizHomeIcon": "",
+                        "bizChannelIcon": "",
+                        "ppjItemMerit": "7周年店庆钜惠",
+                        "itemActSignId": 27394855,
+                        "lfBizIcon": "",
+                        "lfHongBaoPeriod": [],
+                        "labelPics": {},
+                        "xpName": "",
+                        "xpSelling": "",
+                        "xpImg": "",
+                        "qgjText": "疯抢进行中",
+                        "tqgShowStockPercent": true,
+                        "tqgDetailUrl": "//detail.ju.taobao.com/home.htm?id=10000057641461&item_id=557394025193",
+                        "tqgLabelPics": {},
+                        "pics": [
+                            "//gju2.alicdn.com/tps/i1/651856143/TB1wstRXuEJL1JjSZFGXXa6OXXa_!!0-item_pic.jpg",
+                            "//gju3.alicdn.com/tps/i1/651856143/TB2_eOVavBNTKJjy0FdXXcPpVXa_!!0-juitemmedia.jpg",
+                            "//gju3.alicdn.com/tps/i1/651856143/TB2WurXfgoQMeJjy0FoXXcShVXa_!!0-juitemmedia.jpg",
+                            "//gju3.alicdn.com/tps/i4/651856143/TB2RduMavxNTKJjy0FjXXX6yVXa_!!0-juitemmedia.jpg",
+                            "//gju1.alicdn.com/tps/i1/651856143/TB2_5xxbaagSKJjy0FhXXcrbFXa_!!0-juitemmedia.jpg"
+                        ],
+                        "remindType": 1,
+                        "soldOutTime": "2017-09-20 14:00:19",
+                        "sc_cl_24_1036": "i4/6000000004120/TB2SueYhnwKL1JjSZFgXXb6aVXa_!!6000000004120-2-jupush.png",
+                        "itemLogoMoheXinPicV2_24": "//gju2.alicdn.com/tps/i2/6000000003303/TB2X9ZsXvNNTKJjSspfXXbXIFXa_!!6000000003303-2-jupush.png",
+                        "brandName": "PSALTER/诗篇",
+                        "brandId": "115414",
+                        "sc_cl_24_224": "i2/6000000002886/TB2A7GIhloHL1JjSZFwXXb6vpXa_!!6000000002886-2-jupush.png",
+                        "size": "36,38,40,42,44",
+                        "sc_cl_24_181": "i2/6000000007130/TB2v8KRhiwIL1JjSZFsXXcXFFXa_!!6000000007130-2-jupush.png",
+                        "appEntryImage": "//gju2.alicdn.com/tps/i2/651856143/TB2BUAzebsTMeJjSsziXXcdwXXa_!!0-juitemmedia.jpg",
+                        "itemLogoMoheXinPicV2": "//gju2.alicdn.com/tps/i2/6000000003303/TB2X9ZsXvNNTKJjSspfXXbXIFXa_!!6000000003303-2-jupush.png",
+                        "hyalineItemPic_24": "//gju4.alicdn.com/tps/i1/651856143/TB202CdazJTMKJjSZFPXXbHUFXa_!!651856143.png",
+                        "ppjItemMerit_24": "7周年店庆钜惠",
+                        "hyalineItemPic": "//gju4.alicdn.com/tps/i1/651856143/TB202CdazJTMKJjSZFPXXbHUFXa_!!651856143.png",
+                        "brandLogo": "//gju2.alicdn.com/tps/bao/uploaded/TB1Cw6CJXXXXXbnXFXXSutbFXXX.jpg",
+                        "itemSmallTitleJTT": "诗篇100%羊毛大衣",
+                        "itemSmallTitleJTT_24": "诗篇100%羊毛大衣",
+                        "goodMeritIcon": "//gju1.alicdn.com/tps/TB1_3.8MVXXXXc9XpXXXXXXXXXX-60-54.jpg",
+                        "goodMeritText": "旗舰店",
+                        "zrtGroupNum": "",
+                        "zrtCurGroupNum": 0,
+                        "qcNewDetail": true,
+                        "flashBenefit": "",
+                        "goNewDetail": false,
+                        "itemComments": [],
+                        "firstSellPointIcons": [],
+                        "secondSellPointIcons": "",
+                        "secondSellPointTexts": "商场同款",
+                        "thirdSellPointInfos": [
+                            "限量733件",
+                            ""
+                        ],
+                        "isSpecial": false,
+                        "promotionColor": "#FE371E",
+                        "promotionPicUrl": "//gju4.alicdn.com/tps/TB1ldeXSXXXXXbxXVXXXXXXXXXX-540-156.png",
+                        "promotionBigPicUrl": "//gju3.alicdn.com/tps/TB19saZSXXXXXXuXXXXXXXXXXXX-582-156.png",
+                        "promotionContent": "立 即 购 买",
+                        "promotionContentNew": "",
+                        "promotionComparePrice": [
+                            "",
+                            "3280"
+                        ],
+                        "personalSellPoint": "此款赠送胸针",
+                        "itemOfflineFinalScore": "0",
+                        "hookBenefit": "",
+                        "campaignIconUrl": "",
+                        "couponTemplateIconUrl": ""
+                    },
+                    "general": {
+                        "mixBlockSize": 2,
+                        "mixType": 1
+                    },
+                    "global": {
+                        "isBaoshui": false,
+                        "isZhiyou": false
+                    },
+                    "jiaZhuang": {
+                        "brandDesc": "",
+                        "brandLogo": "",
+                        "customerService": "退货赔运费"
+                    },
+                    "merit": {
+                        "desc": [
+                            "全场领券满减",
+                            "全场领券满减",
+                            "全场领券满减"
+                        ],
+                        "down": [
+                            "此款赠送胸针"
+                        ],
+                        "up": [
+                            "新锐",
+                            "知性",
+                            "活力"
+                        ]
+                    },
+                    "name": {
+                        "longName": "新锐 全场领券满减 知性 全场领券满减 活力 全场领券满减",
+                        "prefix": [],
+                        "shortName": "预售-2017冬季新品大衣（赠送胸针",
+                        "tags": [
+                            {
+                                "text": "退货赔运费",
+                                "tag": "zyfx"
+                            }
+                        ],
+                        "title": "预售-2017冬季新品大衣（赠送胸针"
+                    },
+                    "price": {
+                        "actPrice": "1196",
+                        "actPriceRaw": "1196",
+                        "discount": "3.7",
+                        "expandMoney": "",
+                        "frontMoney": "",
+                        "hangtagPrice": false,
+                        "longerPrice": false,
+                        "origPrice": "3280.00",
+                        "priceParts": [
+                            "1196",
+                            ""
+                        ]
+                    },
+                    "promotion": {
+                        "hongbaoPrice": 0,
+                        "hongbaoTotalCount": 0,
+                        "marketing": {}
+                    },
+                    "remind": {
+                        "fire": false,
+                        "remindNum": 52,
+                        "soldCount": 10
+                    }
+                },
+                {
+                    "baseinfo": {
+                        "allPlatformIds": [
+                            24,
+                            4,
+                            34167
+                        ],
+                        "encode64ItemId": "877KA4M",
+                        "frontFirstCatIds": [
+                            1000,
+                            90000,
+                            195000,
+                            207000,
+                            241000,
+                            261000,
+                            291000,
+                            291000,
+                            312000,
+                            331000,
+                            374000
+                        ],
+                        "goJuH5": false,
+                        "itemActSignId": 27394855,
+                        "itemDescUrl": "tfscom/TB12w6baaagSKJjy0FaXXb0dpXa%7Cvar%5Edesc%3Bsign%5E8e93f6115fed93996748978a3ecd0f47%3Blang%5Egb18030%3Bt%5E1505896240495",
+                        "itemId": 557401653552,
+                        "itemLabel": [
+                            "sc_cl_24_1036",
+                            "sys_ict_46914",
+                            "sys_yph",
+                            "sys_ict_5835",
+                            "mjs",
+                            "sys_size_38",
+                            "sys_sign_2",
+                            "sys_sucai_png",
+                            "yhq",
+                            "sc_cl_24_224",
+                            "sys_market_0",
+                            "sys_size_40",
+                            "sc_cl_24_181",
+                            "sys_size_42",
+                            "qtth",
+                            "sys_ict_5895",
+                            "sys_size_36",
+                            "sys_domestic",
+                            "sys_ict_28802",
+                            "sys_sucai_entry"
+                        ],
+                        "itemStatus": "avil",
+                        "itemUrl": "//detail.ju.taobao.com/home.htm?id=10000057641460&item_id=557401653552",
+                        "juId": 10000057641460,
+                        "leftTime": "2天7小时29分钟",
+                        "limitNum": 5,
+                        "oetime": 1506095999000,
+                        "oldbiz30day": 0,
+                        "ostime": 1505836800000,
+                        "ostimeText": "9月20日 00:00准时开抢",
+                        "picGroup": [
+                            "//gju1.alicdn.com/tps/i3/651856143/TB2vedIXywIL1JjSZFsXXcXFFXa_!!651856143.jpg",
+                            "//gju3.alicdn.com/tps/i4/651856143/TB2.QhEXEAKL1JjSZFkXXa8cFXa_!!651856143.jpg",
+                            "//gju1.alicdn.com/tps/i4/651856143/TB2n7VDXDZKL1JjSZFIXXX_DFXa_!!651856143.jpg",
+                            "//gju2.alicdn.com/tps/i2/651856143/TB2_Q0DXDZKL1JjSZFIXXX_DFXa_!!651856143.jpg"
+                        ],
+                        "picUrl": "//gju2.alicdn.com/tps/i4/651856143/TB1aZBJXiERMeJjy0FcXXc7opXa_!!0-item_pic.jpg",
+                        "picUrlFromIc": "//gju2.alicdn.com/tps/i4/651856143/TB1aZBJXiERMeJjy0FcXXc7opXa_!!0-item_pic.jpg",
+                        "picUrlM": "//gju2.alicdn.com/tps/i4/651856143/TB1aZBJXiERMeJjy0FcXXc7opXa_!!0-item_pic.jpg",
+                        "picUrlNew": "//gju2.alicdn.com/tps/i4/651856143/TB1aZBJXiERMeJjy0FcXXc7opXa_!!0-item_pic.jpg",
+                        "platformId": 24,
+                        "postage": true,
+                        "preRemindTime": "",
+                        "preSale": false,
+                        "push": false,
+                        "salesSite": 1,
+                        "sellerId": 651856143,
+                        "setime": 1506095999000,
+                        "shopType": 1,
+                        "soldAmount": 2022800,
+                        "soldRatio": 17,
+                        "sstime": 1505577600000,
+                        "stock": 67,
+                        "tbFirstCatId": 16,
+                        "tbLeafCatId": 50013194,
+                        "totalStock": 78
+                    },
+                    "extend": {
+                        "fwIcon": "",
+                        "fwType": "",
+                        "titleIcon": "",
+                        "titleIcons": [],
+                        "titleIconsNew": [],
+                        "titleIconsV50": [],
+                        "titleIconsV50New": [],
+                        "merits": [
+                            {
+                                "text": "满1199减50"
+                            }
+                        ],
+                        "actIcon": "",
+                        "pcActIcon": "",
+                        "bizHomeIcon": "",
+                        "bizChannelIcon": "",
+                        "ppjItemMerit": "7周年店庆钜惠",
+                        "itemActSignId": 27394855,
+                        "lfBizIcon": "",
+                        "lfHongBaoPeriod": [],
+                        "labelPics": {},
+                        "xpName": "",
+                        "xpSelling": "",
+                        "xpImg": "",
+                        "qgjText": "疯抢进行中",
+                        "tqgShowStockPercent": true,
+                        "tqgDetailUrl": "//detail.ju.taobao.com/home.htm?id=10000057641460&item_id=557401653552",
+                        "tqgLabelPics": {},
+                        "pics": [
+                            "//gju2.alicdn.com/tps/i4/651856143/TB1aZBJXiERMeJjy0FcXXc7opXa_!!0-item_pic.jpg",
+                            "//gju1.alicdn.com/tps/i3/651856143/TB2vedIXywIL1JjSZFsXXcXFFXa_!!651856143.jpg",
+                            "//gju3.alicdn.com/tps/i4/651856143/TB2.QhEXEAKL1JjSZFkXXa8cFXa_!!651856143.jpg",
+                            "//gju1.alicdn.com/tps/i4/651856143/TB2n7VDXDZKL1JjSZFIXXX_DFXa_!!651856143.jpg",
+                            "//gju2.alicdn.com/tps/i2/651856143/TB2_Q0DXDZKL1JjSZFIXXX_DFXa_!!651856143.jpg"
+                        ],
+                        "remindType": 1,
+                        "sc_cl_24_1036": "i4/6000000005600/TB2o81bXLBNTKJjSszeXXcu2VXa_!!6000000005600-2-jupush.png",
+                        "itemLogoMoheXinPicV2_24": "//gju3.alicdn.com/tps/i1/6000000005854/TB2j9cuebsTMeJjy1zcXXXAgXXa_!!6000000005854-2-jupush.png",
+                        "brandName": "PSALTER/诗篇",
+                        "brandId": "115414",
+                        "sc_cl_24_224": "i4/6000000001829/TB2t6vlhocKL1JjSZFzXXcfJXXa_!!6000000001829-2-jupush.png",
+                        "size": "36,38,40,42",
+                        "sc_cl_24_181": "i4/6000000000964/TB2YsGcXLNNTKJjSspeXXaSwpXa_!!6000000000964-2-jupush.png",
+                        "appEntryImage": "//gju3.alicdn.com/tps/i2/651856143/TB2q4ZrXvxNTKJjy0FjXXX6yVXa_!!0-juitemmedia.jpg",
+                        "itemLogoMoheXinPicV2": "//gju3.alicdn.com/tps/i1/6000000005854/TB2j9cuebsTMeJjy1zcXXXAgXXa_!!6000000005854-2-jupush.png",
+                        "hyalineItemPic_24": "//gju2.alicdn.com/tps/i3/651856143/TB2Ai0KXgoQMeJjy0FpXXcTxpXa_!!651856143.png",
+                        "ppjItemMerit_24": "7周年店庆钜惠",
+                        "hyalineItemPic": "//gju2.alicdn.com/tps/i3/651856143/TB2Ai0KXgoQMeJjy0FpXXcTxpXa_!!651856143.png",
+                        "brandLogo": "//gju2.alicdn.com/tps/bao/uploaded/TB1Cw6CJXXXXXbnXFXXSutbFXXX.jpg",
+                        "itemSmallTitleJTT": "诗篇大衣",
+                        "itemSmallTitleJTT_24": "诗篇大衣",
+                        "goodMeritIcon": "//gju1.alicdn.com/tps/TB1_3.8MVXXXXc9XpXXXXXXXXXX-60-54.jpg",
+                        "goodMeritText": "旗舰店",
+                        "zrtGroupNum": "",
+                        "zrtCurGroupNum": 0,
+                        "qcNewDetail": true,
+                        "flashBenefit": "",
+                        "goNewDetail": false,
+                        "itemComments": [],
+                        "firstSellPointIcons": [],
+                        "secondSellPointIcons": "",
+                        "secondSellPointTexts": "商场同款",
+                        "thirdSellPointInfos": [
+                            "限量80件",
+                            ""
+                        ],
+                        "isSpecial": false,
+                        "promotionColor": "#FE371E",
+                        "promotionPicUrl": "//gju4.alicdn.com/tps/TB1ldeXSXXXXXbxXVXXXXXXXXXX-540-156.png",
+                        "promotionBigPicUrl": "//gju3.alicdn.com/tps/TB19saZSXXXXXXuXXXXXXXXXXXX-582-156.png",
+                        "promotionContent": "立 即 购 买",
+                        "promotionContentNew": "",
+                        "promotionComparePrice": [
+                            "",
+                            "3880"
+                        ],
+                        "personalSellPoint": "满1199减50",
+                        "itemOfflineFinalScore": "0",
+                        "hookBenefit": "",
+                        "campaignIconUrl": "",
+                        "couponTemplateIconUrl": ""
+                    },
+                    "general": {
+                        "mixBlockSize": 2,
+                        "mixType": 1
+                    },
+                    "global": {
+                        "isBaoshui": false,
+                        "isZhiyou": false
+                    },
+                    "jiaZhuang": {
+                        "brandDesc": "",
+                        "brandLogo": "",
+                        "customerService": "退货赔运费"
+                    },
+                    "merit": {
+                        "desc": [
+                            "全场领券满减",
+                            "全场领券满减",
+                            "全场领券满减"
+                        ],
+                        "down": [
+                            "满1199减50"
+                        ],
+                        "up": [
+                            "新锐",
+                            "知性",
+                            "活力"
+                        ]
+                    },
+                    "name": {
+                        "longName": "新锐 全场领券满减 知性 全场领券满减 活力 全场领券满减",
+                        "prefix": [],
+                        "shortName": "预售-诗篇2017冬季新品大衣6C57580",
+                        "tags": [
+                            {
+                                "text": "退货赔运费",
+                                "tag": "zyfx"
+                            }
+                        ],
+                        "title": "预售-诗篇2017冬季新品大衣6C57580"
+                    },
+                    "price": {
+                        "actPrice": "1556",
+                        "actPriceRaw": "1556",
+                        "discount": "4.0",
+                        "expandMoney": "",
+                        "frontMoney": "",
+                        "hangtagPrice": false,
+                        "longerPrice": false,
+                        "origPrice": "3880.00",
+                        "priceParts": [
+                            "1556",
+                            ""
+                        ]
+                    },
+                    "promotion": {
+                        "hongbaoPrice": 0,
+                        "hongbaoTotalCount": 0,
+                        "marketing": {}
+                    },
+                    "remind": {
+                        "fire": false,
+                        "remindNum": 19,
+                        "soldCount": 13
+                    }
+                }
+            ],
+            "trackParams": {
+                "_expose": "fcatids,itemIds,stype,bucket,is_load,impid,pageno,floorIndex",
+                "fcatids": "-1",
+                "itemIds": "81n9hQ9^7O01xmY^87ak07W^877htHF^877KA4M",
+                "floorIndex": "1",
+                "stype": "ids",
+                "_click": "bucket,impid,pageno,floorIndex",
+                "bucket": "3",
+                "is_load": "1",
+                "_detailExpose": "bucket,impid,pageno,floorIndex",
+                "impid": "dH9DCAlpt3z",
+                "pageno": "1"
+            },
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=1&actSignId=27394855&reverse=down&stype=ids"
+        },
+        {
+            "count": 96,
+            "floorName": "TOP热销 ",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=2&actSignId=27394855&reverse=down&stype=ids"
+        },
+        {
+            "count": 99,
+            "floorName": "新品专辑",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=3&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 98,
+            "floorName": "皮衣&皮草",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=4&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 99,
+            "floorName": "大衣外套",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=5&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 99,
+            "floorName": "连衣裙&毛衫",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=6&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 99,
+            "floorName": "羽绒服&其他",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=7&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 99,
+            "floorName": "商场专柜同步",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=8&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 99,
+            "floorName": "2件9折一",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=9&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 99,
+            "floorName": "2件9折二",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=10&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 98,
+            "floorName": "2件9折三",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=11&actSignId=27394855&reverse=down&stype=samount"
+        },
+        {
+            "count": 98,
+            "floorName": "上下装",
+            "url": "//ju.taobao.com/json/brand/ajaxGetBrandFloorV2.json?includeForecast=true&floorIndex=12&actSignId=27394855&reverse=down&stype=samount"
+        }
+    ],
+    "extend": {
+        "moqieCode": {
+            "content": {
+                "imgQuality": "50",
+                "imgSrc": "//gjusp.alicdn.com/img/img1505557639880-651856143.jpg",
+                "imgUnitHeight": 1000,
+                "areas": {},
+                "pageColor": "#F3F3F3",
+                "imgSplits": [
+                    1000,
+                    230
+                ],
+                "imgWidth": 750,
+                "type": 1,
+                "imgSuffix": "jpg",
+                "imgHeight": 1230
+            },
+            "gid": 1505557643681
+        },
+        "qrCode": "//gju2.alicdn.com/tps/TB28Xo5elUSMeJjy1zjXXc0dXXa_!!6000000005156-0-jupush.jpg",
+        "brand": {
+            "baseInfo": {
+                "activityId": 27394855,
+                "activityStatus": "avil",
+                "activityUrl": "//ju.taobao.com/tg/brand_items.htm?act_sign_id=27394855&seller_id=651856143",
+                "allPlatformIds": [
+                    24,
+                    4
+                ],
+                "blockItemCount": 1245,
+                "blockTags": [],
+                "blockType": 1,
+                "brandId": 115414,
+                "brandName": "PSALTER/诗篇",
+                "businessId": 34167,
+                "encode64ActivityId": "b1EwcD",
+                "frontFirstCatIds": [
+                    66000,
+                    90000,
+                    312000,
+                    374000,
+                    1000,
+                    195000,
+                    241000,
+                    261000,
+                    291000,
+                    331000
+                ],
+                "isJmp": false,
+                "isNew": false,
+                "juCategoryId": 100002,
+                "labels": [
+                    "qijiandian",
+                    "sys_ptdpyhq_50",
+                    "sys_ptdpyhq_100",
+                    "sys_market_0",
+                    "sys_BIG_COUPON_AMOUNT_FOR_OUTLETS",
+                    "sys_biztype_34167",
+                    "sys_bgroup_single",
+                    "sys_mix_img",
+                    "sys_msite_pc",
+                    "sys_miste_wl",
+                    "sys_main_platformid_24"
+                ],
+                "minisitePC": "1505557672819_27394855_651856143",
+                "minisiteWL": "1505557646583_27394855_651856143",
+                "new": false,
+                "oetime": 1506095999000,
+                "ostime": 1505836800000,
+                "otherActivityIdList": [],
+                "platformId": 24,
+                "sellerId": 651856143,
+                "sgFrontCatId": 261000,
+                "soldAmount": 223122,
+                "tbFirstCatId": 16,
+                "wlJumpUrl": "https://ju.taobao.com/m/jusp/alone/branditem/mtp.htm?brand_id=27394855"
+            },
+            "extend": {
+                "debug": "",
+                "global": "",
+                "minisiteTitle": "PSALTER/诗篇",
+                "onlineItemCount": "1245",
+                "shopId": "64121476",
+                "uv": "0",
+                "scm": "20140632.jutaobao.main.27394855"
+            },
+            "general": {
+                "mixBlockSize": 1,
+                "mixType": 2
+            },
+            "materials": {
+                "benefitText": "秋冬新品 领券满减",
+                "brandDesc": "PSALTER诗篇在各种严肃职场中打破时尚瓶颈，用英伦、学院风格绽放多种场合的着装体验，倡导塑造外在美的同时，强调对生命意义的追求。以全新诉写商务理念，建立视觉化都市精英女性。",
+                "brandEnterImgUrl": "//gju2.alicdn.com/tps/i3/6000000000586/TB27YE4azihSKJjy0FeXXbJtpXa_!!6000000000586-0-jupush.jpg",
+                "brandEnterImgUrlV40": "//gju4.alicdn.com/tps/i4/6000000003152/TB22XWEeMoQMeJjy0FoXXcShVXa_!!6000000003152-0-jupush.jpg",
+                "brandEnterImgUrlV50": "",
+                "brandLogoUrl": "//gju2.alicdn.com/tps/bao/uploaded/TB1Cw6CJXXXXXbnXFXXSutbFXXX.jpg",
+                "enterImgUrl": "//gju4.alicdn.com/tps/i1/6000000004723/TB2EqiieMMPMeJjy1XdXXasrXXa_!!6000000004723-0-jupush.jpg",
+                "extend": {
+                    "activityUrl": "-",
+                    "ppjMerit_24": "秋冬新品领券满减",
+                    "brandGroupEnterImageGS": "i1/651856143/TB2zDSheRUSMeJjy1zkXXaWmpXa_!!0-juitemmedia.jpg",
+                    "ppjEnterPic_24": "//gju4.alicdn.com/tps/i2/651856143/TB2sgdbho3IL1JjSZFMXXajrFXa_!!0-juitemmedia.jpg",
+                    "brandLogoMohePic": "i1/6000000006908/TB2fNIigEFWMKJjSZFvXXaenFXa_!!6000000006908-0-jupush.jpg",
+                    "enterImgUrl": "i1/6000000004723/TB2EqiieMMPMeJjy1XdXXasrXXa_!!6000000004723-0-jupush.jpg",
+                    "brandLyd": "秋冬新品 领券满减",
+                    "newBrandEnterImgUrl": "i3/6000000007835/TB2JoI5hBcHL1JjSZFBXXaiGXXa_!!6000000007835-0-jupush.jpg",
+                    "brandGroupEnterImageBg": "//gju4.alicdn.com/tps/i3/2943913485/TB2ZETzajihSKJjy0FiXXcuiFXa_!!2943913485-0-jumohe.jpg",
+                    "wlBrandDesc": "新锐 知性 活力",
+                    "ppjLogo_24": "//gju2.alicdn.com/tps/i4/651856143/TB2kTMQg93PL1JjSZFxXXcBBVXa_!!2-juitemmedia.png",
+                    "shopYearInfo": "7",
+                    "brandLogoUrl": "bao/uploaded/TB1Cw6CJXXXXXbnXFXXSutbFXXX.jpg",
+                    "brandGroupEnterImage": "i2/6000000001262/TB2qv5xeMMPMeJjy1XbXXcwxVXa_!!6000000001262-0-jupush.jpg",
+                    "specialPic": "i2/651856143/TB2XIAWg1ALL1JjSZFjXXasqXXa_!!0-juitemmedia.jpg",
+                    "ppjDesc_24": "新锐 知性 活力",
+                    "wlBannerImgUrl": "i2/651856143/TB29XcTebsTMeJjy1zcXXXAgXXa_!!0-juitemmedia.jpg",
+                    "newBannerImgUrl": "i4/651856143/TB25F6BaamgSKJjSsplXXaICpXa_!!0-juitemmedia.jpg",
+                    "ppjStory_24": "PSALTER诗篇在各种严肃职场中打破时尚瓶颈，用英伦、学院风格绽放多种场合的着装体验，倡导塑造外在美的同时，强调对生命意义的追求。以全新诉写商务理念，建立视觉化都市精英女性。",
+                    "brandDesc": "PSALTER诗篇在各种严肃职场中打破时尚瓶颈，用英伦、学院风格绽放多种场合的着装体验，倡导塑造外在美的同时，强调对生命意义的追求。以全新诉写商务理念，建立视觉化都市精英女性。",
+                    "brandHighLevelBanner": "i2/651856143/TB2Kuu0cqmWQ1JjSZPhXXXCJFXa_!!0-juitemmedia.jpg",
+                    "brandEnterImgUrl": "i3/6000000000586/TB27YE4azihSKJjy0FeXXbJtpXa_!!6000000000586-0-jupush.jpg",
+                    "themeTitle_4": "诗篇7周年",
+                    "logoText": "新锐 知性 活力",
+                    "ppjTheme_24": "诗篇7周年店庆一7相伴",
+                    "brandSloganNameNew": "新锐 知性 活力",
+                    "juClientEnterImgUrl": "i4/6000000003152/TB22XWEeMoQMeJjy0FoXXcShVXa_!!6000000003152-0-jupush.jpg",
+                    "newBrandEnterBgImgUrl": "//gju3.alicdn.com/tps/i1/6000000005666/TB2cvGteMoQMeJjy1XaXXcSsFXa_!!6000000005666-0-jupush.jpg",
+                    "fcdpVerticalLogo_24": "//gju4.alicdn.com/tps/i4/651856143/TB2u3oQXvNNTKJjSspkXXaeWFXa_!!0-juitemmedia.jpg"
+                },
+                "logoText": "新锐 知性 活力",
+                "newBannerImgUrl": "//gju1.alicdn.com/tps/i4/651856143/TB25F6BaamgSKJjSsplXXaICpXa_!!0-juitemmedia.jpg",
+                "newBrandEnterImgUrl": "//gju1.alicdn.com/tps/i2/6000000001262/TB2qv5xeMMPMeJjy1XbXXcwxVXa_!!6000000001262-0-jupush.jpg",
+                "wlBannerImgUrl": "//gju4.alicdn.com/tps/i2/651856143/TB29XcTebsTMeJjy1zcXXXAgXXa_!!0-juitemmedia.jpg"
+            },
+            "price": {
+                "coupon": {
+                    "effectEtime": 1506095999000,
+                    "effectStime": 1505836800000,
+                    "fazhi": 119900,
+                    "id": 2616611,
+                    "mianzhi": 5000,
+                    "promotion": "满1199减50",
+                    "sellerId": 651856143,
+                    "title": "聚划算店铺优惠券",
+                    "type": 0
+                },
+                "discount": "10",
+                "fullCuts": [],
+                "hasCoupon": true,
+                "promotion": "满1199减50"
+            },
+            "promotion": {
+                "coupons": [
+                    {
+                        "fazhi": 119900,
+                        "id": 2616611,
+                        "mianzhi": 5000,
+                        "promotion": "满1199减50",
+                        "sellerId": 651856143,
+                        "title": "聚划算店铺优惠券",
+                        "type": 0,
+                        "uuid": "a7f75a70f5ac487085925ecfdd24209e"
+                    },
+                    {
+                        "fazhi": 189900,
+                        "id": 2609331,
+                        "mianzhi": 10000,
+                        "promotion": "满1899减100",
+                        "sellerId": 651856143,
+                        "title": "聚划算店铺优惠券",
+                        "type": 0,
+                        "uuid": "d2bb809228524d12b9c99f988b271403"
+                    },
+                    {
+                        "fazhi": 299900,
+                        "id": 2591643,
+                        "mianzhi": 20000,
+                        "promotion": "满2999减200",
+                        "sellerId": 651856143,
+                        "title": "聚划算店铺优惠券",
+                        "type": 0,
+                        "uuid": "7c1b1f39d9374baea4d22e8a2612acf5"
+                    },
+                    {
+                        "fazhi": 429900,
+                        "id": 2612036,
+                        "mianzhi": 30000,
+                        "promotion": "满4299减300",
+                        "sellerId": 651856143,
+                        "title": "聚划算店铺优惠券",
+                        "type": 0,
+                        "uuid": "0468a986a2304798923c1eae6713ac21"
+                    },
+                    {
+                        "fazhi": 629900,
+                        "id": 2612237,
+                        "mianzhi": 50000,
+                        "promotion": "满6299减500",
+                        "sellerId": 651856143,
+                        "title": "聚划算店铺优惠券",
+                        "type": 0,
+                        "uuid": "f4688fb5d3254de28f5ad086554fdeed"
+                    }
+                ],
+                "marketing": {}
+            },
+            "remind": {
+                "remindNum": 4187,
+                "soldCount": 2192,
+                "timeRemind": "仅剩2天"
+            }
+        },
+        "displayName": "PSALTER/诗篇专场"
+    }
+}

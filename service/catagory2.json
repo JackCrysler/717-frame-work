@@ -1,0 +1,295 @@
+{
+    "api": "mtop.relationrecommend.wirelessrecommend.recommend",
+    "data": {
+        "result": [
+            {
+                "industryList": [
+                    {
+                        "name": "为您推荐",
+                        "id": "0"
+                    },
+                    {
+                        "name": "女装",
+                        "id": "1"
+                    },
+                    {
+                        "name": "男装",
+                        "id": "3"
+                    },
+                    {
+                        "name": "鞋靴",
+                        "id": "2"
+                    },
+                    {
+                        "name": "箱包",
+                        "id": "4"
+                    },
+                    {
+                        "name": "内衣配饰",
+                        "id": "19"
+                    },
+                    {
+                        "name": "手机数码",
+                        "id": "5"
+                    },
+                    {
+                        "name": "母婴",
+                        "id": "6"
+                    },
+                    {
+                        "name": "百货",
+                        "id": "7"
+                    },
+                    {
+                        "name": "珠宝配饰",
+                        "id": "8"
+                    },
+                    {
+                        "name": "运动户外",
+                        "id": "9"
+                    },
+                    {
+                        "name": "家电",
+                        "id": "10"
+                    },
+                    {
+                        "name": "食品",
+                        "id": "11"
+                    },
+                    {
+                        "name": "美妆",
+                        "id": "12"
+                    },
+                    {
+                        "name": "家装",
+                        "id": "13"
+                    },
+                    {
+                        "name": "家居家纺",
+                        "id": "14"
+                    },
+                    {
+                        "name": "整车车品",
+                        "id": "15"
+                    },
+                    {
+                        "name": "鲜花宠物",
+                        "id": "16"
+                    },
+                    {
+                        "name": "图书乐器",
+                        "id": "20"
+                    },
+                    {
+                        "name": "飞猪旅行",
+                        "id": "21"
+                    },
+                    {
+                        "name": "生活服务",
+                        "id": "17"
+                    },
+                    {
+                        "name": "游戏动漫",
+                        "id": "18"
+                    },
+                    {
+                        "name": "花呗分期",
+                        "id": "22"
+                    }
+                ],
+                "moduleList": [
+                    {
+                        "link": {},
+                        "type": "category",
+                        "title": "为您推荐",
+                        "items": [
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "衬衫连衣裙",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1o94zLVXXXXaQXFXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E8%A1%AC%E8%A1%AB%E8%BF%9E%E8%A1%A3%E8%A3%99&params=%7B%22upnid%22%3A527687780785%2C%22upbcat%22%3A50010850%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:527687780785_reason:second_page_switch_cat:50010850&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "雪纺衫",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/TB1D20wMpXXXXbiXXXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E9%9B%AA%E7%BA%BA%E8%A1%AB&params=%7B%22upnid%22%3A529381201059%2C%22upbcat%22%3A162116%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:529381201059_reason:second_page_switch_cat:162116&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "短袖t恤",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i4/TB1PhZSLXXXXXXjaXXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E7%9F%AD%E8%A2%96t%E6%81%A4&params=%7B%22upnid%22%3A526047748488%2C%22upbcat%22%3A50000671%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:526047748488_reason:second_page_switch_cat:50000671&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "休闲鞋",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i1/TB1YtTzGVXXXXXwXpXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E4%BC%91%E9%97%B2%E9%9E%8B&params=%7B%22upnid%22%3A44002342407%2C%22upbcat%22%3A50012027%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:44002342407_reason:second_page_switch_cat:50012027&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "平底鞋",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i3/1621786866/TB2DAMHlVXXXXXrXXXXXXXXXXXX_!!1621786866.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E5%B9%B3%E5%BA%95%E9%9E%8B&params=%7B%22upnid%22%3A523375734417%2C%22upbcat%22%3A50012042%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:523375734417_reason:second_page_switch_cat:50012042&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "贝壳包",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i3/TB1rIHwLVXXXXXVXVXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E8%B4%9D%E5%A3%B3%E5%8C%85&params=%7B%22upnid%22%3A43796372757%2C%22upbcat%22%3A50012010%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:43796372757_reason:second_page_switch_cat:50012010&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "情侣装",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i4/TB1wV4EMFXXXXaQXFXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E6%83%85%E4%BE%A3%E8%A3%85&params=%7B%22upnid%22%3A528266724662%2C%22upbcat%22%3A50000436%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:528266724662_reason:second_page_switch_cat:50000436&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "运动",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1zgcSLFXXXXXPXVXXXXXXXXXX_!!2-item_pic.png",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E8%BF%90%E5%8A%A8&params=%7B%22upnid%22%3A44280091158%2C%22upbcat%22%3A3035%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:44280091158_reason:second_page_switch_cat:3035&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "小脚裤",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i2/1107267334/TB2.f5mlXXXXXaZXpXXXXXXXXXX_!!1107267334.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E5%B0%8F%E8%84%9A%E8%A3%A4&params=%7B%22upnid%22%3A521467864272%2C%22upbcat%22%3A50010167%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:521467864272_reason:second_page_switch_cat:50010167&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "休闲",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i2/1094617796/TB2p3gbkXXXXXa4XXXXXXXXXXXX_!!1094617796.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E4%BC%91%E9%97%B2&params=%7B%22upnid%22%3A526988271755%2C%22upbcat%22%3A50011123%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:526988271755_reason:second_page_switch_cat:50011123&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "休闲",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i2/TB1eAfJKpXXXXXvXpXXXXXXXXXX_!!0-item_pic.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E4%BC%91%E9%97%B2&params=%7B%22upnid%22%3A19087572568%2C%22upbcat%22%3A50011744%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:19087572568_reason:second_page_switch_cat:50011744&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "陶瓷表",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i4/1125378539/TB2_JDelFXXXXcwXXXXXXXXXXXX_!!1125378539.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E9%99%B6%E7%93%B7%E8%A1%A8&params=%7B%22upnid%22%3A18330181336%2C%22upbcat%22%3A121454006%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:18330181336_reason:second_page_switch_cat:121454006&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "风衣",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i1/405518494/TB21u.HlVXXXXa_XpXXXXXXXXXX_!!405518494.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E9%A3%8E%E8%A1%A3&params=%7B%22upnid%22%3A526237500400%2C%22upbcat%22%3A50000852%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:526237500400_reason:second_page_switch_cat:50000852&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "内衣",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i3/382893831/TB2k2G4mpXXXXboXXXXXXXXXXXX_!!382893831.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E5%86%85%E8%A1%A3&params=%7B%22upnid%22%3A523304953661%2C%22upbcat%22%3A50008881%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:523304953661_reason:second_page_switch_cat:50008881&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "家居服",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/TB1TsLWLVXXXXaXapXXSutbFXXX.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E5%AE%B6%E5%B1%85%E6%9C%8D&params=%7B%22upnid%22%3A527226019798%2C%22upbcat%22%3A50012771%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:527226019798_reason:second_page_switch_cat:50012771&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "动漫雨伞",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i1/4092/TB2qDHJnpXXXXXFXXXXXXXXXXXX_!!4092.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E5%8A%A8%E6%BC%AB%E9%9B%A8%E4%BC%9E&params=%7B%22upnid%22%3A521122485388%2C%22upbcat%22%3A210211%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:521122485388_reason:second_page_switch_cat:210211&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            },
+                            {
+                                "good_rate": "",
+                                "rank_diff": "",
+                                "name": "吊坠",
+                                "id": "",
+                                "pic": "//img.alicdn.com/imgextra/i3/2551741388/TB2jgIllVXXXXXTXpXXXXXXXXXX_!!2551741388.jpg",
+                                "tag": "",
+                                "score_name": "",
+                                "url": "//market.m.taobao.com/app/s-nx-page/catmap-recommend/p/s-nx-list?api=tpp&v=2.0&appId=3489&spmb=9304519&spmc=0&title=%E5%90%8A%E5%9D%A0&params=%7B%22upnid%22%3A523811186184%2C%22upbcat%22%3A50013865%2C%22industry%22%3A0%2C%22maxn%22%3A200%7D&scm=1007.13113.89009.tab:0_type:category_id:523811186184_reason:second_page_switch_cat:50013865&pvid=c005c0f2-1262-4f94-91b5-a2f2e77f1905&scene=3113"
+                            }
+                        ],
+                        "desc": ""
+                    }
+                ],
+                "spmc": "tuijian",
+                "imgQuality": "1",
+                "industry": "0"
+            }
+        ],
+        "pvid": "c005c0f2-1262-4f94-91b5-a2f2e77f1905",
+        "scm": "1007.13113.89009.0",
+        "version": 1.0,
+        "tpp_trace": "ac1de36a15058076979358634e1326",
+        "status": "success"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "2.0"
+}

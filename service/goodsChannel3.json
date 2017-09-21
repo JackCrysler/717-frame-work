@@ -1,0 +1,3092 @@
+{
+    "title": null,
+    "response": "",
+    "error": null,
+    "sid": -2,
+    "mid": 0,
+    "subActivity": [
+        {
+            "subTitle": "",
+            "skuIds": [
+                597732,
+                571601,
+                547549,
+                579045,
+                608691,
+                602325,
+                613091,
+                611085,
+                10429781,
+                611729,
+                603887,
+                571771,
+                587494,
+                560134,
+                10134628,
+                589990,
+                10134592,
+                595767,
+                565206,
+                10318263,
+                546876,
+                10318249,
+                593769,
+                514872,
+                576073,
+                58520,
+                553896,
+                578325,
+                80471,
+                519264,
+                10422847,
+                588605,
+                588603,
+                607660,
+                606506,
+                10274914,
+                552409,
+                502614,
+                10320606,
+                502074,
+                582850,
+                65902,
+                609442,
+                609441,
+                585917,
+                539762,
+                597511,
+                574338,
+                598921,
+                534093,
+                518669,
+                612602,
+                597258,
+                597259,
+                613770,
+                613767,
+                76348,
+                76340,
+                66546,
+                10344642,
+                10321655,
+                10318074,
+                10377394,
+                595818,
+                611996,
+                602297,
+                603934,
+                10318295,
+                59494,
+                597846,
+                572327,
+                575401,
+                611221,
+                608129,
+                586491,
+                586398,
+                610793,
+                605732,
+                586795,
+                575005,
+                599454,
+                562365,
+                613317,
+                612074
+            ]
+        }
+    ],
+    "skulist": {
+        "518669": {
+            "name": "【自营】蓝月亮深层洁净洗衣液 自然清香(瓶装 3kg)",
+            "price1": {
+                "value": "￥39.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥49.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥39.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/362419/206121/206128/206160/518669/518669_1_phone280_7971.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/362419/206121/206128/206160/518669/518669_1_phone320_7971.jpg",
+            "product_id": "518669",
+            "number": "267",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "臻品尊享",
+                "北京",
+                "洗涤日化"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10318249": {
+            "name": "时怡 中粮优选泰国芒果干（100g）*3",
+            "price1": {
+                "value": "￥47.70",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥65.70",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥47.70",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/604/439208/10318249/10318249_1_phone280_9389.jpg",
+            "largePic": "http://pic.womai.com/upload/601/604/439208/10318249/10318249_1_phone320_9389.jpg",
+            "product_id": "10318249",
+            "number": "1715",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "臻品尊享",
+                "北京",
+                "休闲健康"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "546876": {
+            "name": "【2017年新榨】中粮初萃 非转基因古法小榨浓香菜籽油5L",
+            "price1": {
+                "value": "￥69.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥96.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥69.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6201/6209/546876/546876_0_phone280_1096.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6201/6209/546876/546876_0_phone320_1096.jpg",
+            "product_id": "546876",
+            "number": "2961",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "食用油"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "597846": {
+            "name": "【自营】科尔沁原味风干豪情牛肉干400g",
+            "price1": {
+                "value": "￥115.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥115.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥115.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6061/6072/597846/597846_1_phone280_483.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6061/6072/597846/597846_1_phone320_483.jpg",
+            "product_id": "597846",
+            "number": "39",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "休闲零食"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "502074": {
+            "name": "【自营】富昌无根肉厚黑木耳228g",
+            "price1": {
+                "value": "￥33.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥49.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥33.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/7300/502074/502074_0_phone280_8246.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/7300/502074/502074_0_phone320_8246.jpg",
+            "product_id": "502074",
+            "number": "787",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "干货"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "578325": {
+            "name": "【自营】红星蓝瓶八年陈酿43度 500ml",
+            "price1": {
+                "value": "￥24.50",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥38.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥24.50",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6800/6801/578325/578325_0_phone280_6064.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6800/6801/578325/578325_0_phone320_6064.jpg",
+            "product_id": "578325",
+            "number": "225",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "酒类",
+                "白酒"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "611085": {
+            "name": "【中粮海外直采】big bang嗨棒含气瓜拉纳复合果味饮料250ml(荷兰进口 瓶)",
+            "price1": {
+                "value": "￥6.90",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥6.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥6.90",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6700/6704/611085/611085_1_phone280_1075.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6700/6704/611085/611085_1_phone320_1075.jpg",
+            "product_id": "611085",
+            "number": "75308",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "果汁饮料",
+                "功能饮料"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "586795": {
+            "name": "【正品保税】德国Brita碧然德滤水壶（蓝色）3.5L",
+            "price1": {
+                "value": "￥158.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥199.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥158.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/393438/394211/393858/586795/586795_1_phone280_5041.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/393438/394211/393858/586795/586795_1_phone320_5041.jpg",
+            "product_id": "586795",
+            "number": "166",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "孕婴童",
+                "喂养用品"
+            ],
+            "sellerId": 992359,
+            "restAssuredLabel": ""
+        },
+        "519264": {
+            "name": "【整箱优惠】燕京啤酒   330ml*24",
+            "price1": {
+                "value": "￥56.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥75.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥56.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/519264/519264_1_phone280_3714.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/519264/519264_1_phone320_3714.jpg",
+            "product_id": "519264",
+            "number": "511",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "579045": {
+            "name": "【自营】万年豚有机土猪猪肉肥肉馅 500g 袋装  饲养1年",
+            "price1": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥39.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/64306/280375/82402/219341/579045/579045_0_phone280_6017.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/64306/280375/82402/219341/579045/579045_0_phone320_6017.jpg",
+            "product_id": "579045",
+            "number": "270",
+            "product_type": "2",
+            "product_fresh": true,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "80471": {
+            "name": "【自营】BAILEYS百利甜(进口食品 瓶装 750ml)",
+            "price1": {
+                "value": "￥79.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥109.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥79.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6800/6804/78900/80471/80471_1_phone280_8900.JPG",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6800/6804/78900/80471/80471_1_phone320_8900.JPG",
+            "product_id": "80471",
+            "number": "15",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "酒类",
+                "洋酒"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "565206": {
+            "name": "【90天新油】中粮初萃 压榨一级浓香花生油5L",
+            "price1": {
+                "value": "￥99.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥156.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥99.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6201/6206/565206/565206_0_phone280_4327.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6201/6206/565206/565206_0_phone320_4327.jpg",
+            "product_id": "565206",
+            "number": "3332",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "食用油"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "599454": {
+            "name": "【包邮】炳记元福 山西原味太谷饼70g*30",
+            "price1": {
+                "value": "￥34.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥58.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥34.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/80300/80500/80504/599454/599454_1_phone280_9344.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/80300/80500/80504/599454/599454_1_phone320_9344.jpg",
+            "product_id": "599454",
+            "number": "710",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "直送"
+            ],
+            "category_dsp": [
+                "食品",
+                "味道中国",
+                "华北"
+            ],
+            "sellerId": 992608,
+            "restAssuredLabel": ""
+        },
+        "611221": {
+            "name": "【正品保税】【有效期至2017年9月6日】澳大利亚即食免煮麦片早餐1.2kg",
+            "price1": {
+                "value": "￥58.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥65.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥58.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/253820/611221/611221_1_phone280_1734.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/253820/611221/611221_1_phone320_1734.jpg",
+            "product_id": "611221",
+            "number": "0",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "冲调品",
+                "糊状冲调品"
+            ],
+            "sellerId": 993146,
+            "restAssuredLabel": ""
+        },
+        "58520": {
+            "name": "【自营】五粮液52度 500ml",
+            "price1": {
+                "value": "￥949.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥980.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥949.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6800/6801/58520/58520_0_phone280_3610.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6800/6801/58520/58520_0_phone320_3610.jpg",
+            "product_id": "58520",
+            "number": "0",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "酒类",
+                "白酒"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "593769": {
+            "name": "中粮初萃 河套雪花粉2.5kg",
+            "price1": {
+                "value": "￥26.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥40.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥26.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/90900/216060/216061/593769/593769_1_phone280_6112.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/90900/216060/216061/593769/593769_1_phone320_6112.jpg",
+            "product_id": "593769",
+            "number": "2759",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "面粉"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "603934": {
+            "name": "中粮时怡牛肉干（五香味）",
+            "price1": {
+                "value": "￥19.90",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥19.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥19.90",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/253820/603934/603934_0_phone280_6454.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/253820/603934/603934_0_phone320_6454.jpg",
+            "product_id": "603934",
+            "number": "13122",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "休闲零食"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": "11"
+        },
+        "571771": {
+            "name": "【自营】owl猫头鹰3合1特浓咖啡800g",
+            "price1": {
+                "value": "￥45.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥49.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥45.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/66102/201240/571771/571771_0_phone280_6903.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/66102/201240/571771/571771_0_phone320_6903.jpg",
+            "product_id": "571771",
+            "number": "0",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "进口食品",
+                "进口咖啡茶叶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10318263": {
+            "name": "时怡中粮优选碧根果（袋装210g) *2",
+            "price1": {
+                "value": "￥38.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥39.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥38.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6065/78704/10318263/10318263_0_phone280_4309.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6065/78704/10318263/10318263_0_phone320_4309.jpg",
+            "product_id": "10318263",
+            "number": "988",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "坚果炒货"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "605732": {
+            "name": "【新西兰直邮】澳大利亚Swisse蔓越莓胶囊30粒+胶原蛋白500ml",
+            "price1": {
+                "value": "￥184.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥184.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥184.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/602/977921/605732/605732_1_phone280_3109.jpg",
+            "largePic": "http://pic.womai.com/upload/601/602/977921/605732/605732_1_phone320_3109.jpg",
+            "product_id": "605732",
+            "number": "415",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "营养健康",
+                "女士营养"
+            ],
+            "sellerId": 992425,
+            "restAssuredLabel": ""
+        },
+        "602325": {
+            "name": "【自营】中粮家佳康 冷冻超值培根1kg袋装",
+            "price1": {
+                "value": "￥37.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥59.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥37.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/602/61010/602325/602325_1_phone280_716.jpg",
+            "largePic": "http://pic.womai.com/upload/601/602/61010/602325/602325_1_phone320_716.jpg",
+            "product_id": "602325",
+            "number": "7595",
+            "product_type": "3",
+            "product_fresh": true,
+            "sellable": true,
+            "promotion_tag": [
+                "减"
+            ],
+            "category_dsp": [
+                "食品",
+                "生鲜食品",
+                "肉类海鲜低温"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10344642": {
+            "name": "【自营】光明莫斯利安巴氏杀菌常温酸奶（原味）200g*6\r盒*2提",
+            "price1": {
+                "value": "￥43.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥92.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥43.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6600/6604/10344642/10344642_1_phone280_4621.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6600/6604/10344642/10344642_1_phone320_4621.jpg",
+            "product_id": "10344642",
+            "number": "0",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "奶制品",
+                "酸奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "606506": {
+            "name": "中粮初萃 古田银耳25g*4",
+            "price1": {
+                "value": "￥27.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥42.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥27.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/7300/7301/503823/606506/606506_1_phone280_7230.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/7300/7301/503823/606506/606506_1_phone320_7230.jpg",
+            "product_id": "606506",
+            "number": "1082",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "干货",
+                "木耳/银耳"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "608691": {
+            "name": "【自营】艾美 希腊覆盆子部分脱脂风味发酵乳150g杯装【瑞士进口】",
+            "price1": {
+                "value": "￥23.80",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥23.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥23.80",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/64306/280375/89500/206060/608691/608691_1_phone280_6588.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/64306/280375/89500/206060/608691/608691_1_phone320_6588.jpg",
+            "product_id": "608691",
+            "number": "15",
+            "product_type": "1",
+            "product_fresh": true,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "生鲜食品",
+                "肉类海鲜低温"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "595818": {
+            "name": "中粮悠采 果蔬燕麦片480g",
+            "price1": {
+                "value": "￥28.80",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥40.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥28.80",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/7400/7407/595818/595818_1_phone280_4905.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/7400/7407/595818/595818_1_phone320_4905.jpg",
+            "product_id": "595818",
+            "number": "1750",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "早餐食品",
+                "糊状冲调品"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "597732": {
+            "name": "【自营】大厨小鲜蒜蓉粉丝贝 6粒装 270g  袋装",
+            "price1": {
+                "value": "￥11.80",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥16.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥11.80",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/64306/280375/219300/219321/597732/597732_0_phone280_6120.JPG",
+            "largePic": "http://pic.womai.com/upload/601/603/606/64306/280375/219300/219321/597732/597732_0_phone320_6120.JPG",
+            "product_id": "597732",
+            "number": "965",
+            "product_type": "3",
+            "product_fresh": true,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "生鲜食品",
+                "肉类海鲜低温"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": "11"
+        },
+        "571601": {
+            "name": "【自营】中粮安至选澳洲牛肋条 1000g 袋装",
+            "price1": {
+                "value": "￥128.00",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥139.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥128.00",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/64306/280375/82402/82505/571601/571601_0_phone280_1113.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/64306/280375/82402/82505/571601/571601_0_phone320_1113.jpg",
+            "product_id": "571601",
+            "number": "1029",
+            "product_type": "3",
+            "product_fresh": true,
+            "sellable": true,
+            "promotion_tag": [
+                "减"
+            ],
+            "category_dsp": [
+                "食品",
+                "生鲜食品",
+                "肉类海鲜低温"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": "11"
+        },
+        "612074": {
+            "name": "【包邮】新西兰DNZ野花蜂蜜500g",
+            "price1": {
+                "value": "￥73.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥158.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥73.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6300/6304/6313/612074/612074_2_phone280_6523.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6300/6304/6313/612074/612074_2_phone320_6523.jpg",
+            "product_id": "612074",
+            "number": "15736",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "直送"
+            ],
+            "category_dsp": [
+                "食品",
+                "冲调品",
+                "蜂蜜/柚子茶"
+            ],
+            "sellerId": 993476,
+            "restAssuredLabel": ""
+        },
+        "589990": {
+            "name": "时怡 中粮优选黑加仑葡萄干（袋装280g）",
+            "price1": {
+                "value": "￥37.80",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥37.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥37.80",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6062/6076/589990/589990_0_phone280_6521.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6062/6076/589990/589990_0_phone320_6521.jpg",
+            "product_id": "589990",
+            "number": "0",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "果脯蜜饯"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10321655": {
+            "name": "【自营】统一冰红茶(瓶装 500ml)*6",
+            "price1": {
+                "value": "￥14.90",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥14.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥14.90",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/604/439208/10321655/10321655_1_phone280_8127.jpg",
+            "largePic": "http://pic.womai.com/upload/601/604/439208/10321655/10321655_1_phone320_8127.jpg",
+            "product_id": "10321655",
+            "number": "0",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "果汁饮料",
+                "茶饮料"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "586491": {
+            "name": "【正品保税】2件 日本花王Merries纸尿裤大号L54片",
+            "price1": {
+                "value": "￥209.00",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥239.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥209.00",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6590/248321/248345/586491/586491_1_phone280_9470.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6590/248321/248345/586491/586491_1_phone320_9470.jpg",
+            "product_id": "586491",
+            "number": "818",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "孕婴童",
+                "尿裤/湿巾"
+            ],
+            "sellerId": 992359,
+            "restAssuredLabel": ""
+        },
+        "574338": {
+            "name": "【自营】松下（Panasonic）吸尘器MC-CL443GJ81",
+            "price1": {
+                "value": "￥499.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥499.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥499.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/608/253222/253223/253225/574338/574338_2_phone280_2617.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/608/253222/253223/253225/574338/574338_2_phone320_2617.jpg",
+            "product_id": "574338",
+            "number": "6",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "日用品",
+                "家用电器/运动办公",
+                "生活电器"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10429781": {
+            "name": "【5包】Tomsgilim汤姆农场蜂蜜黄油扁桃仁35g（韩国进口 袋）",
+            "price1": {
+                "value": "￥29.80",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥40.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥29.80",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/604/439208/10429781/10429781_1_phone280_9709.jpg",
+            "largePic": "http://pic.womai.com/upload/601/604/439208/10429781/10429781_1_phone320_9709.jpg",
+            "product_id": "10429781",
+            "number": "933",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "坚果炒货"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10274914": {
+            "name": "【30天鲜磨新米】中粮初萃 东北明珠大米5kg",
+            "price1": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥42.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/10274914/10274914_1_phone280_1175.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/10274914/10274914_1_phone320_1175.jpg",
+            "product_id": "10274914",
+            "number": "3514",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "大米"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "59494": {
+            "name": "【自营】怡达果丹皮(袋装 500g)",
+            "price1": {
+                "value": "￥13.80",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥13.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥13.80",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6062/6077/59494/59494_1_phone280_8485.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6062/6077/59494/59494_1_phone320_8485.jpg",
+            "product_id": "59494",
+            "number": "1564",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "果脯蜜饯"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "582850": {
+            "name": "【自营】Friso美素佳儿金装幼儿配方奶粉3段900g 12-36个月宝宝适用（荷兰进口）",
+            "price1": {
+                "value": "￥165.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥208.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥165.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6590/6501/214562/582850/582850_0_phone280_1972.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6590/6501/214562/582850/582850_0_phone320_1972.jpg",
+            "product_id": "582850",
+            "number": "1179",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "孕婴童",
+                "奶粉"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10134628": {
+            "name": "【30天鲜磨新米】中粮初萃 五常稻花香大米5kg",
+            "price1": {
+                "value": "￥59.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥80.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥59.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/10134628/10134628_2_phone280_8604.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/10134628/10134628_2_phone320_8604.jpg",
+            "product_id": "10134628",
+            "number": "661",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "大米"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "597511": {
+            "name": "【自营】维达 蓝色经典3层140g卷纸*27卷（整箱销售）",
+            "price1": {
+                "value": "￥49.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥69.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥49.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/608/362805/362808/362457/362541/597511/597511_1_phone280_8776.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/608/362805/362808/362457/362541/597511/597511_1_phone320_8776.jpg",
+            "product_id": "597511",
+            "number": "968",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "日用品",
+                "家居用品/厨具用品",
+                "生活日用/宠物"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10318074": {
+            "name": "时怡中粮优选洋槐蜂蜜454g *2",
+            "price1": {
+                "value": "￥39.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥53.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥39.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/604/439208/10318074/10318074_1_phone280_881.jpg",
+            "largePic": "http://pic.womai.com/upload/601/604/439208/10318074/10318074_1_phone320_881.jpg",
+            "product_id": "10318074",
+            "number": "2737",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "早餐食品",
+                "糊状冲调品"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "611996": {
+            "name": "【自营】美滋滋天天见坚果A750g（新老包装随机发货）",
+            "price1": {
+                "value": "￥118.00",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥148.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥118.00",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6065/73000/611996/611996_0_phone280_4896.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6065/73000/611996/611996_0_phone320_4896.jpg",
+            "product_id": "611996",
+            "number": "228",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "坚果炒货"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "539762": {
+            "name": "【自营】贝倍舒宝宝润肤霜50g（盒）",
+            "price1": {
+                "value": "￥26.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥38.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥26.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/608/206120/206123/206251/539762/539762_1_phone280_3327.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/608/206120/206123/206251/539762/539762_1_phone320_3327.jpg",
+            "product_id": "539762",
+            "number": "16",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "臻品尊享",
+                "北京",
+                "餐厨百货"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "514872": {
+            "name": "【自营】茅台王子酒(瓶装 500ml)",
+            "price1": {
+                "value": "￥129.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥169.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥129.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6800/6801/514872/514872_0_phone280_114.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6800/6801/514872/514872_0_phone320_114.jpg",
+            "product_id": "514872",
+            "number": "17",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "酒类",
+                "白酒"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "602297": {
+            "name": "【自营】一品玉和田红枣五星 特惠专供装 400g*3",
+            "price1": {
+                "value": "￥49.00",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥89.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥49.00",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/602/62817/602297/602297_0_phone280_7150.jpg",
+            "largePic": "http://pic.womai.com/upload/601/602/62817/602297/602297_0_phone320_7150.jpg",
+            "product_id": "602297",
+            "number": "1228",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "店庆爆品",
+                "常温爆品"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "502614": {
+            "name": "【自营】欣和六月鲜特级酱油1000ml",
+            "price1": {
+                "value": "￥20.80",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥24.50",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥20.80",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/7100/7102/502614/502614_1_phone280_2882.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/7100/7102/502614/502614_1_phone320_2882.jpg",
+            "product_id": "502614",
+            "number": "553",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "调味品",
+                "酱油"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "610793": {
+            "name": "【欧洲直邮】德国Balea芭乐雅保湿玻尿酸安瓶紫盒 7支",
+            "price1": {
+                "value": "￥59.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥79.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥59.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/253820/610793/610793_1_phone280_8390.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/253820/610793/610793_1_phone320_8390.jpg",
+            "product_id": "610793",
+            "number": "348",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "日用品",
+                "个人护理/美容美妆",
+                "美容美妆"
+            ],
+            "sellerId": 993362,
+            "restAssuredLabel": ""
+        },
+        "547549": {
+            "name": "【自营】大洋世家舟山鲳鱼100/200（平鱼，4条装）450g  袋装",
+            "price1": {
+                "value": "￥39.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥65.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥39.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/210641/210654/210656/547549/547549_0_phone280_7566.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/210641/210654/210656/547549/547549_0_phone320_7566.jpg",
+            "product_id": "547549",
+            "number": "0",
+            "product_type": "2",
+            "product_fresh": true,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "生鲜尊享",
+                "北京",
+                "生鲜肉食"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": "11"
+        },
+        "552409": {
+            "name": "【自营】十月稻田稻花香大米5kg",
+            "price1": {
+                "value": "￥55.00",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥55.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥55.00",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/552409/552409_1_phone280_9759.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/552409/552409_1_phone320_9759.jpg",
+            "product_id": "552409",
+            "number": "347",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "大米"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "76340": {
+            "name": "【自营】三元极致全脂纯牛奶250ml*12/箱",
+            "price1": {
+                "value": "￥49.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥65.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥49.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/602/66008/76340/76340_1_phone280_8192.jpg",
+            "largePic": "http://pic.womai.com/upload/601/602/66008/76340/76340_1_phone320_8192.jpg",
+            "product_id": "76340",
+            "number": "698",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "奶制品",
+                "纯牛奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "585917": {
+            "name": "【自营】FisherPrice费雪层叠彩虹杯婴儿玩具K7166",
+            "price1": {
+                "value": "￥59.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥109.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥59.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6590/406614/406416/406628/585917/585917_1_phone280_6180.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6590/406614/406416/406628/585917/585917_1_phone320_6180.jpg",
+            "product_id": "585917",
+            "number": "4",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "孕婴童",
+                "玩具童车"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "613317": {
+            "name": "渤悦鲜活冻煮裙边扇贝250g/袋 肉质鲜美",
+            "price1": {
+                "value": "￥39.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥55.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥39.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/80300/80517/80518/613317/613317_1_phone280_3351.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/80300/80517/80518/613317/613317_1_phone320_3351.jpg",
+            "product_id": "613317",
+            "number": "50478",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "直送"
+            ],
+            "category_dsp": [
+                "食品",
+                "味道中国",
+                "华中"
+            ],
+            "sellerId": 993471,
+            "restAssuredLabel": ""
+        },
+        "586398": {
+            "name": "【正品保税】2件 德国Aptamil爱他美婴幼儿奶粉三段800g ",
+            "price1": {
+                "value": "￥378.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥378.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥378.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6590/6501/214562/586398/586398_1_phone280_528.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6590/6501/214562/586398/586398_1_phone320_528.jpg",
+            "product_id": "586398",
+            "number": "24",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "孕婴童",
+                "奶粉"
+            ],
+            "sellerId": 992359,
+            "restAssuredLabel": ""
+        },
+        "10320606": {
+            "name": "【自营】上海梅林午餐肉340g*2",
+            "price1": {
+                "value": "￥27.60",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥27.60",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥27.60",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/604/10320606/10320606_0_phone280_3767.jpg",
+            "largePic": "http://pic.womai.com/upload/601/604/10320606/10320606_0_phone320_3767.jpg",
+            "product_id": "10320606",
+            "number": "3409",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "方便食品",
+                "罐头"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "76348": {
+            "name": "【自营】三元特品方白纯牛奶250ml*24/箱",
+            "price1": {
+                "value": "￥63.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥91.20",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥63.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/602/66008/76348/76348_1_phone280_9921.jpg",
+            "largePic": "http://pic.womai.com/upload/601/602/66008/76348/76348_1_phone320_9921.jpg",
+            "product_id": "76348",
+            "number": "283",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "奶制品",
+                "纯牛奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "612602": {
+            "name": "苹果iPhone7 128GB 全网通 玫瑰金",
+            "price1": {
+                "value": "￥5699.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥5699.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥5699.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/608/362421/362428/362492/362578/612602/612602_1_phone280_6848.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/608/362421/362428/362492/362578/612602/612602_1_phone320_6848.jpg",
+            "product_id": "612602",
+            "number": "15",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "直采"
+            ],
+            "category_dsp": [
+                "日用品",
+                "家用电器/运动办公",
+                "个护健康"
+            ],
+            "sellerId": 993359,
+            "restAssuredLabel": ""
+        },
+        "575401": {
+            "name": "【自营】德芙什锦装碗装249g 新老包装随机发货",
+            "price1": {
+                "value": "￥32.50",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥32.50",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥32.50",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6063/6079/575401/575401_1_phone280_1776.JPG",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6063/6079/575401/575401_1_phone320_1776.JPG",
+            "product_id": "575401",
+            "number": "237",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "糖果巧克力 "
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "66546": {
+            "name": "【自营】蒙牛特仑苏纯牛奶250ml*12/箱 新老包装随机发货",
+            "price1": {
+                "value": "￥65.00",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥65.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥65.00",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/7400/7409/66546/66546_0_phone280_260.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/7400/7409/66546/66546_0_phone320_260.jpg",
+            "product_id": "66546",
+            "number": "142",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "早餐食品",
+                "常温奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "538200": {
+            "name": "【自营】乌克兰乡村葵花籽油5L(乌克兰进口 桶)(新老包装随机发货）",
+            "price1": {
+                "value": "￥99.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥99.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥99.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6201/6209/538200/538200_1_phone280_5292.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6201/6209/538200/538200_1_phone320_5292.jpg",
+            "product_id": "538200",
+            "number": "0",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "食用油"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "594018": {
+            "name": "【中粮海外直采】Hochwald好沃得全脂牛奶200ml*6（德国进口 组）",
+            "price1": {
+                "value": "￥19.90",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥19.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥19.90",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/602/54610/594018/594018_0_phone280_5143.jpg",
+            "largePic": "http://pic.womai.com/upload/601/602/54610/594018/594018_0_phone320_5143.jpg",
+            "product_id": "594018",
+            "number": "0",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "早餐食品",
+                "常温奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "560134": {
+            "name": "【自营】Golden Delight金怡泰国茉莉香米5kg(泰国进口 袋)新老包装更替",
+            "price1": {
+                "value": "￥56.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥85.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥56.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6215/6214/560134/560134_0_phone280_1624.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6215/6214/560134/560134_0_phone320_1624.jpg",
+            "product_id": "560134",
+            "number": "790",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "大米"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "562365": {
+            "name": "【包邮】山孚牌微山湖散养咸鸭蛋盒装（390g)*2盒",
+            "price1": {
+                "value": "￥26.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥39.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥26.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/80300/80506/80507/562365/562365_1_phone280_2919.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/80300/80506/80507/562365/562365_1_phone320_2919.jpg",
+            "product_id": "562365",
+            "number": "3002",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "直送"
+            ],
+            "category_dsp": [
+                "食品",
+                "味道中国",
+                "华东"
+            ],
+            "sellerId": 991504,
+            "restAssuredLabel": ""
+        },
+        "607660": {
+            "name": "安荟堂中粮优选银耳（朵型)65g",
+            "price1": {
+                "value": "￥13.90",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥13.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥13.90",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/7300/7301/503823/607660/607660_1_phone280_1012.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/7300/7301/503823/607660/607660_1_phone320_1012.jpg",
+            "product_id": "607660",
+            "number": "1382",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "其他"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "609453": {
+            "name": "【自营】Anchor安佳调制乳粉(全脂乳粉）900g（新西兰进口 罐装）",
+            "price1": {
+                "value": "￥59.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥120.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥59.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/66102/66105/496872/609453/609453_0_phone280_1352.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/66102/66105/496872/609453/609453_0_phone320_1352.jpg",
+            "product_id": "609453",
+            "number": "0",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "进口食品",
+                "进口牛奶/奶粉"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "587494": {
+            "name": "【自营】三养超辣鸡肉味拌面五连包5*140g （韩国进口 袋）新老包装更换随机发货",
+            "price1": {
+                "value": "￥24.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥49.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥24.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/66102/200620/587494/587494_0_phone280_2144.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/66102/200620/587494/587494_0_phone320_2144.jpg",
+            "product_id": "587494",
+            "number": "856",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "进口食品",
+                "进口方便食品"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "613091": {
+            "name": "【自营】优形电烤鸡胸肉片150g（女神款）盒装",
+            "price1": {
+                "value": "￥9.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥14.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥9.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/64306/280375/219400/219420/613091/613091_0_phone280_6087.JPG",
+            "largePic": "http://pic.womai.com/upload/601/603/606/64306/280375/219400/219420/613091/613091_0_phone320_6087.JPG",
+            "product_id": "613091",
+            "number": "1180",
+            "product_type": "2",
+            "product_fresh": true,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [],
+            "sellerId": 0,
+            "restAssuredLabel": "12"
+        },
+        "10134592": {
+            "name": "【30天鲜磨新米】中粮初萃 五常香米5kg",
+            "price1": {
+                "value": "￥49.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥62.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥49.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/10134592/10134592_1_phone280_7900.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/10134592/10134592_1_phone320_7900.jpg",
+            "product_id": "10134592",
+            "number": "4794",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "大米"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "572327": {
+            "name": "【自营】BHB燕山甘栗仁100g*10袋 专供特惠装",
+            "price1": {
+                "value": "￥45.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥69.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥45.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone280_5303.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone320_5303.jpg",
+            "product_id": "572327",
+            "number": "622",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "臻品尊享",
+                "北京",
+                "休闲健康"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10377394": {
+            "name": "【自营】虎标黑糖150g*3瓶（玫瑰+老姜+红枣桂圆）黑糖块 古法老红糖块送礼佳品玫瑰红糖",
+            "price1": {
+                "value": "￥59.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥80.70",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥59.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6900/6902/10377394/10377394_0_phone280_3963.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6900/6902/10377394/10377394_0_phone320_3963.jpg",
+            "product_id": "10377394",
+            "number": "339",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "茶叶",
+                "养生茶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "608129": {
+            "name": "【澳洲直邮】澳大利亚Bio Island比奥岛袋鼠精胶囊（男性调理滋补）90粒",
+            "price1": {
+                "value": "￥99.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥99.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥99.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/7000/65906/608129/608129_1_phone280_3016.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/7000/65906/608129/608129_1_phone320_3016.jpg",
+            "product_id": "608129",
+            "number": "443",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "营养健康",
+                "骨骼健康"
+            ],
+            "sellerId": 993368,
+            "restAssuredLabel": ""
+        },
+        "65902": {
+            "name": "中粮悠采 核桃油250ml",
+            "price1": {
+                "value": "￥128.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥128.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥128.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6201/51900/65902/65902_1_phone280_6933.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6201/51900/65902/65902_1_phone320_6933.jpg",
+            "product_id": "65902",
+            "number": "447",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "食用油"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "598921": {
+            "name": "【中粮出品】简沃-加厚纸杯250ML50只装 RY-1508",
+            "price1": {
+                "value": "￥9.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥13.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥9.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/608/362805/362424/362442/362514/598921/598921_1_phone280_4513.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/608/362805/362424/362442/362514/598921/598921_1_phone320_4513.jpg",
+            "product_id": "598921",
+            "number": "5930",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "日用品",
+                "家居用品/厨具用品",
+                "厨具及配件"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "609442": {
+            "name": "【自营】帮宝适 超薄干爽拉拉裤电商彩箱 L120",
+            "price1": {
+                "value": "￥129.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥258.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥129.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/90900/216060/216061/609442/609442_0_phone280_5012.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/90900/216060/216061/609442/609442_0_phone320_5012.jpg",
+            "product_id": "609442",
+            "number": "2322",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "孕婴童",
+                "尿裤/湿巾"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "609441": {
+            "name": "【自营】帮宝适 超薄干爽拉拉裤电商彩箱 XL108",
+            "price1": {
+                "value": "￥149.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥318.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥149.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/90900/216060/216061/609441/609441_1_phone280_2230.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/90900/216060/216061/609441/609441_1_phone320_2230.jpg",
+            "product_id": "609441",
+            "number": "3046",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "孕婴童",
+                "尿裤/湿巾"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "534093": {
+            "name": "【自营】清风原木纯品3层270段10卷卷纸",
+            "price1": {
+                "value": "￥24.90",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥24.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥24.90",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/362419/206121/206256/206257/534093/534093_1_phone280_7614.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/362419/206121/206256/206257/534093/534093_1_phone320_7614.jpg",
+            "product_id": "534093",
+            "number": "207",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "减"
+            ],
+            "category_dsp": [
+                "臻品尊享",
+                "广州",
+                "餐厨百货"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "595767": {
+            "name": "时怡中粮优选什锦果仁(罐装1020g)",
+            "price1": {
+                "value": "￥129.00",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥148.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥129.00",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6065/6086/595767/595767_0_phone280_3650.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6065/6086/595767/595767_0_phone320_3650.jpg",
+            "product_id": "595767",
+            "number": "8391",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "坚果炒货"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": "11"
+        },
+        "613770": {
+            "name": "【自营】伊利金典纯牛奶250ml*16/箱",
+            "price1": {
+                "value": "￥56.55",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥87.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥56.55",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6600/245320/613770/613770_0_phone280_1392.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6600/245320/613770/613770_0_phone320_1392.jpg",
+            "product_id": "613770",
+            "number": "346",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "奶制品",
+                "纯牛奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "575005": {
+            "name": "【包邮】 暖民 茶叶 花草茶 玫瑰花茶120g罐装",
+            "price1": {
+                "value": "￥19.60",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥39.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥19.60",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6900/6903/575005/575005_1_phone280_4450.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6900/6903/575005/575005_1_phone320_4450.jpg",
+            "product_id": "575005",
+            "number": "19011",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [
+                "直送",
+                "减"
+            ],
+            "category_dsp": [
+                "食品",
+                "茶叶",
+                "花草茶"
+            ],
+            "sellerId": 991951,
+            "restAssuredLabel": ""
+        },
+        "603887": {
+            "name": "【韩国原装进口】时怡海苔 淡盐配方 42.3g (4.7g x 9袋)",
+            "price1": {
+                "value": "￥19.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥19.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥19.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6061/6074/603887/603887_1_phone280_9839.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6061/6074/603887/603887_1_phone320_9839.jpg",
+            "product_id": "603887",
+            "number": "5122",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "休闲零食"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "588603": {
+            "name": "【自营】福临门秋田小町5kg",
+            "price1": {
+                "value": "￥32.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥58.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥32.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/588603/588603_0_phone280_7582.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6215/6213/588603/588603_0_phone320_7582.jpg",
+            "product_id": "588603",
+            "number": "9186",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "大米"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "597259": {
+            "name": "【自营】圣牧全程有机纯奶200ml*10/箱 新老包装随机发货",
+            "price1": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥58.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/207421/207424/597259/597259_1_phone280_4474.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/207421/207424/597259/597259_1_phone320_4474.jpg",
+            "product_id": "597259",
+            "number": "376",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "有机食品",
+                "有机婴幼食品&奶制品"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "613767": {
+            "name": "【自营】伊利安慕希希腊风味酸奶 原味 205g*16盒/箱",
+            "price1": {
+                "value": "￥66.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥88.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥66.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6600/6604/613767/613767_0_phone280_5008.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6600/6604/613767/613767_0_phone320_5008.jpg",
+            "product_id": "613767",
+            "number": "2069",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "奶制品",
+                "酸奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10318295": {
+            "name": "时怡 中粮优选雪域玉枣 五星 (450g)*2",
+            "price1": {
+                "value": "￥52.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥55.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥52.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6060/6062/6075/10318295/10318295_1_phone280_9347.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6060/6062/6075/10318295/10318295_1_phone320_9347.jpg",
+            "product_id": "10318295",
+            "number": "2482",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "休闲食品",
+                "果脯蜜饯"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "597258": {
+            "name": "【自营】圣牧全程有机酸牛奶205g*8/箱 新老包装随机发货",
+            "price1": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥52.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥29.90",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6600/6604/597258/597258_1_phone280_7642.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6600/6604/597258/597258_1_phone320_7642.jpg",
+            "product_id": "597258",
+            "number": "571",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "奶制品",
+                "酸奶"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "553896": {
+            "name": "买一赠一【中粮直采】意大利拉科利慕斯5号干红葡萄酒750ml(仅限9.15-9.21活动)",
+            "price1": {
+                "value": "￥79.00",
+                "key": "零售价"
+            },
+            "price2": {
+                "value": "￥79.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥79.00",
+                "key": "零售价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6800/6803/6807/553896/553896_0_phone280_789.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6800/6803/6807/553896/553896_0_phone320_789.jpg",
+            "product_id": "553896",
+            "number": "0",
+            "product_type": "1",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [
+                "赠"
+            ],
+            "category_dsp": [
+                "食品",
+                "酒类",
+                "葡萄酒"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "576073": {
+            "name": "【中粮海外直采】中粮海外直采品质保证法国波尔多AOC甜美诱惑干红葡萄酒",
+            "price1": {
+                "value": "￥69.00",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥158.00",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥69.00",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6800/6803/6807/576073/576073_1_phone280_2485.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6800/6803/6807/576073/576073_1_phone320_2485.jpg",
+            "product_id": "576073",
+            "number": "1076",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "酒类",
+                "葡萄酒"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "10422847": {
+            "name": "【自营】福临门黄金产地玉米油3.5L+玉米油900ML",
+            "price1": {
+                "value": "￥49.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥77.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥49.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6201/6211/10422847/10422847_1_phone280_6111.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6201/6211/10422847/10422847_1_phone320_6111.jpg",
+            "product_id": "10422847",
+            "number": "445",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "食用油"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "611729": {
+            "name": "【自营】台湾老杨咸蛋黄饼干  260g  （台湾进口 袋）",
+            "price1": {
+                "value": "￥29.80",
+                "key": "抢购价"
+            },
+            "price2": {
+                "value": "￥59.80",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥29.80",
+                "key": "抢购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6400/6401/84301/611729/611729_0_phone280_1.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6400/6401/84301/611729/611729_0_phone320_1.jpg",
+            "product_id": "611729",
+            "number": "0",
+            "product_type": "2",
+            "product_fresh": false,
+            "sellable": false,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "饼干蛋糕",
+                "饼干"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        },
+        "588605": {
+            "name": "【自营】福临门葵花籽原香食用调和油5L",
+            "price1": {
+                "value": "￥39.90",
+                "key": "团购价"
+            },
+            "price2": {
+                "value": "￥59.90",
+                "key": "零售价"
+            },
+            "buyPrice": {
+                "value": "￥39.90",
+                "key": "团购价"
+            },
+            "referencePrice": {
+                "value": "",
+                "key": ""
+            },
+            "pic": "http://pic.womai.com/upload/601/603/606/6200/6201/6207/588605/588605_0_phone280_544.jpg",
+            "largePic": "http://pic.womai.com/upload/601/603/606/6200/6201/6207/588605/588605_0_phone320_544.jpg",
+            "product_id": "588605",
+            "number": "3731",
+            "product_type": "3",
+            "product_fresh": false,
+            "sellable": true,
+            "promotion_tag": [],
+            "category_dsp": [
+                "食品",
+                "粮油",
+                "食用油"
+            ],
+            "sellerId": 0,
+            "restAssuredLabel": ""
+        }
+    }
+}

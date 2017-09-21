@@ -7,7 +7,6 @@
                 <em class="icon iconfont icon-home"></em>
                 <sub>首页</sub>
             </router-link>
-
             <router-link :to="{name:'catagory'}" tag="span">
                 <em class="icon iconfont icon-apps"></em>
                 <sub>分类</sub>
@@ -48,6 +47,8 @@ nav {
     display: table;
     width: 100%;
     border-top: 1px solid #eee;
+    line-height: 0.4rem;
+    font-size: 0.18rem;
 }
 
 nav span {
@@ -57,6 +58,7 @@ nav span {
 
 nav .icon {
     font-size: 0.46rem;
+    line-height: 0.6rem;
 }
 
 nav em,
@@ -67,6 +69,9 @@ nav sub {
 
 nav .icon {
     height: 0.5rem;
+}
+.router-link-active{
+    color: #ff0000;
 }
 </style>
 
