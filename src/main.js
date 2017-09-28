@@ -8,6 +8,10 @@ import Router from './routes/router.config'
 import App from './App.vue'
 import axios from 'axios'
 Vue.prototype.$http = axios
+
+import modal from './plugins/modal';
+console.log(modal)
+
 //开发环境使用，测试环境或者线上环境请注掉
 import '../mock/mock'
 

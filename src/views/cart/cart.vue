@@ -3,8 +3,8 @@
 		<header class="head">
 			<i class="iconfont icon-back"></i>
 			<b>购物车</b>
-			<span>
-				编辑
+			<span @click="eidt">
+				{{edit_words}}
 				<i class="iconfont icon-message"></i>
 			</span>
 		</header>
@@ -16,9 +16,8 @@
 					<p>购物车为空</p>
 					<span>去逛逛</span>
 				</div>
-
 				<div class="shop_list" v-else>
-					<item-comp v-for="x in cart_list" :info="x" :key="x.id"></item-comp>
+					<item-comp v-for="x in cart_list" :info="x" :key="x.id" @get-id="get_id"></item-comp>
 				</div>
 			</div>
 			<h1 class="hot">热门推荐</h1>
@@ -43,54 +42,120 @@
 					</p>
 					<b>运费：0.00</b>
 				</div>
-				<button type="button">结算</button>
+				<button type="button" @click="commit">{{commit_result}}</button>
 			</div>
 		</div>
 	</div>
 </template>
 <script>
-import {mapState,mapGetters} from 'vuex'
+import { mapState, mapGetters, mapMutations } from 'vuex'
 import item from './item.vue'
+import _ from 'lodash'
 export default {
 	data() {
 		return {
-      if_has_items:true,
-      check_all:false
+			if_has_items: true,
+			check_all: false,
+			commit_result: '结算',
+			edit_words: '编辑',
+			is_edit:true,
+			edit_list:[]
 		}
 	},
 	created() {
+		let c = document.cookie.split(';');
+		let token; 
+		for(let i=0;i<c.length;i++){
+			if(c[i].indexOf('1505B-tocken')>-1){
+				token = c[i].split('=')[1]
+			}
+		}
+		
+		this.$http.post('/cart/list',{token:token}).then((res)=>{
+			
+			this.update_cart(res.data)
+			this.if_has_items = false
+		})
+	},
+	components: {
+		"item-comp": item
+	},
+	computed: {
+		...mapState(['cart_list']),
+		...mapGetters(['get_selected'])
+		
+	},
+	methods: {
+		selected_all() {
+			this.check_all = !this.check_all;
+			this.$store.commit('check_all', this.check_all);
+			console.log(this.$store.state.cart_list)
+		},
+		eidt() {
+			
+			if (this.is_edit == false) {
+				this.is_edit = true;
+				this.commit_result = "结算";
+				this.edit_words = "编辑";
+			} else {
+				this.is_edit = false;
+				this.edit_words = '完成';
+				this.commit_result = '删除'
+			}
+		},
+		get_id(obj) {
+			let is_same=false
+			this.edit_list.forEach((item,index)=>{
+				if(obj.id == item.id){
+					is_same = true;
+				}
+			})
+			
+			if(is_same){
+				this.edit_list.forEach((item,index)=>{
+					if(obj.id == item.id){
+						item.selected = obj.selected
+					}
+				})
+			}else{
+				this.edit_list.push(obj);
+			}
+				
+			
+		},
+		commit(){
+			
+			if(!this.is_edit){
+				//去删除
+				let arr = [];
+				this.edit_list.forEach((item,index)=>{
+					if(item.selected)
+					arr.push(item.id)
+				})
+				this.delete_item(arr)
+			}else{
+				//去结算
+			}
+		},
+		...mapMutations(['delete_item','update_cart'])
+	},
+	mounted() {
+		if (this.cart_list.length > 0) {
+			this.if_has_items = false
+		}
 
-  },
-  components:{
-    "item-comp":item
-  },
-  computed:{
-    ...mapState(['cart_list']),
-    ...mapGetters(['get_selected'])
-  },
-  methods:{
-    selected_all(){
-      this.check_all = !this.check_all;
-      this.$store.commit('check_all',this.check_all);
-      console.log(this.$store.state.cart_list)
-    }
-  },
-  mounted(){
-    if(this.cart_list.length>0){
-      this.if_has_items = false
-    }
 
-  }
+
+	}
 }
 </script>
 <style scoped>
 .shop {
 	background: #f5f5f5;
-  display:flex;
- flex-direction: column;
- width:100%;
- height:100%;
-
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 100%;
 }
 
 .head {
@@ -104,7 +169,6 @@ export default {
 	text-align: center;
 	flex-shrink: 0;
 	font-size: 0.22rem;
-  
 }
 
 .head span i {
@@ -118,7 +182,7 @@ export default {
 
 .main {
 	width: 100%;
-  flex:1;
+	flex: 1;
 	overflow: hidden;
 	overflow-y: auto;
 }
@@ -140,7 +204,7 @@ export default {
 	align-items: center;
 	background: #fff;
 	flex-direction: column;
-	margin-bottom:10px;
+	margin-bottom: 10px;
 }
 
 .empt_imgs {
@@ -152,16 +216,18 @@ export default {
 	display: block;
 	width: 100%;
 }
-.empt_box span{
-	border:1px solid red;
-	padding:5px 8px;
-	margin-top:8px;
-	border-radius:5px;
-	color:red
+
+.empt_box span {
+	border: 1px solid red;
+	padding: 5px 8px;
+	margin-top: 8px;
+	border-radius: 5px;
+	color: red
 }
-.empt_box p{
+
+.empt_box p {
 	line-height: 30px;
-	color:#666;
+	color: #666;
 }
 
 .foot {
@@ -239,6 +305,7 @@ export default {
 .shop_list {
 	width: 100%;
 }
+
 .btns {
 	width: 0.45rem;
 	height: 0.45rem;
@@ -251,6 +318,7 @@ export default {
 	color: #fff;
 	margin-right: 0.12rem;
 }
+
 .icon-check {
 	background: #fc4141;
 }

@@ -10,6 +10,9 @@ import search from '../views/search/search.vue'
 import result from '../views/searchresult/result.vue'
 import shop from '../views/shop/shop.vue'
 import login from '../views/login/login.vue'
+import addresslist from '../views/addresslist/site.vue'
+import editaddress from '../views/editaddress/message.vue'
+import loginout from '../views/loginout/loginout.vue'
 
 
 Vue.use(VueRouter);
@@ -55,7 +58,8 @@ let routes = [
                 name:'result',
                 path:'result',
                 component:result
-            }
+            },
+            
         ]
     },
     {
@@ -72,6 +76,21 @@ let routes = [
         name:'login',
         path:'/login',
         component:login
+    },
+    {
+        name:'loginout',
+        path:'/loginout',
+        component:loginout
+    },
+    {
+        name:'addresslist',
+        path:'/addresslist',
+        component: addresslist
+    },
+    {
+        name:'editaddress',
+        path:'/editaddress/:id?',
+        component: editaddress
     }
 ]
 
@@ -86,7 +105,7 @@ router.beforeEach(function(to,from,next){
     }
     if(to.name=='mine'){
         let meta = to.matched.some((info)=>{info.meta.username});
-        //if(to.matched.some((info)=>{info.meta.username})
+        
         let cookie_list = document.cookie.split(';')
         let tocken=null;
         for(let i=0;i<cookie_list.length;i++){
@@ -105,8 +124,6 @@ router.beforeEach(function(to,from,next){
     }else{
         next()   
     }
-    
-     
 })
 
 export default router

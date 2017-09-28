@@ -41,7 +41,7 @@
   		</div>
 		<div class="mine_more">
 			<p><em class="icon iconfont icon-search"></em>我的社区<span>></span></p>
-			<p><em class="icon iconfont icon-search"></em>我的社区<span>></span></p>
+			<p @click="go_to_addresslist"><em class="icon iconfont icon-search"></em>邮寄地址<span>></span></p>
 			<p><em class="icon iconfont icon-search"></em>我的社区<span>></span></p>
 		</div>
 		<b>热门推荐</b>
@@ -101,8 +101,13 @@ export default {
 	  }
   },
   methods:{
+    go_to_addresslist(){
+      this.$router.push({
+        name:'addresslist'
+      })
+    },
 	  go_to_settings(){
-	  	this.$router.push('/settings')
+	  	this.$router.push({name:'loginout'})
 	  }
   },
   beforeRouteEnter: (to, from, next) => {
@@ -111,7 +116,7 @@ export default {
     next();
   },
   mounted(){
-    console.log(this.$route)
+    
   }
 }
 </script>

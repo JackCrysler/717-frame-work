@@ -9,10 +9,9 @@
 </template>
 <script>
 export default {
-    name: 'mask-view',
     props: ['isActive'],
     mounted() {
-        //this.isActive = this.$store.state.mask_active
+        
     },
     methods: {
 

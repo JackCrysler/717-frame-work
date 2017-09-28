@@ -89,13 +89,17 @@ export default {
           })
       },
       login(){
-          this.$http.post('/login',{
+          this.$http
+          .post('/login',{
               phone:this.login_phone,
               password:this.login_password
-          }).then((res)=>{
-              console.log(res.data);
+          })
+          .then((res)=>{
               document.cookie = "1505B-tocken="+res.data.tocken
               this.$router.push({name:'mine'})
+          })
+          .catch((err)=>{
+            console.log(err)
           })
       }
     }

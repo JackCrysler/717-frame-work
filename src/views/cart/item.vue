@@ -21,7 +21,7 @@
 <script>
 
 export default {
-    props: ['info','select_all'],
+    props: ['info','select_all','is_edit'],
     data() {
         return {
             selected: false,
@@ -34,11 +34,13 @@ export default {
     methods: {
         select_fn(idx) {
             this.selected = !this.selected;
+			
+			this.$emit('get-id',{id:this.info.id,selected:this.selected})
+			
         },
         add(){
             this.item_count++;
             this.$store.commit('change_count',[this.info.id,this.item_count])
-            
         },
         minus(){
             this.item_count--;
@@ -54,6 +56,7 @@ export default {
         }
     },
     mounted(){
+		
         this.item_count = this.info.count
     }
 }

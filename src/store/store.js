@@ -10,6 +10,12 @@ let store = new Vuex.Store({
         ]
     },
     mutations:{
+        update_cart(state,data){
+            if(data){
+                state.cart_list = [...data]
+            }
+            
+        },
         add_to_cart(state,data){
             
             let flag = false;
@@ -41,6 +47,21 @@ let store = new Vuex.Store({
             state.cart_list.forEach((item)=>{
                 item.selected = bool
             })
+        },
+        delete_item(state,arr){
+            console.log(arr);
+            let ar=state.cart_list;
+            //state.cart_list
+            for(let i=0; i<ar.length; i++){
+                for(let j=0;j<arr.length;j++){
+                    if(ar[i].id==arr[j]){
+                        ar.splice(i,1)
+                        i--;
+                    }
+                }
+            }
+            
+
         }
     },
     actions:{

@@ -12,12 +12,23 @@
 </template>
 <script>
 import tips from './tips.vue';
+import token from '../utils/getcookie';
 export default {
     props:['url','name','price','id'],
     methods:{
         add_to_cart:function(){
-            this.$http.post('/user/Cart/addCart',{goods_id:123,key_code:123}).then((res)=>{
-                console.log(res.data)
+
+            this.$http.post('/user/Cart/addCart',{
+                goods_info:{
+                    id:this.id,
+                    name:this.name,
+                    price:this.price,
+                    url:this.url,
+                    count:1
+                },
+                token:token
+            }
+            ).then((res)=>{
 
                 if(res.data==1){
                     let data = {
